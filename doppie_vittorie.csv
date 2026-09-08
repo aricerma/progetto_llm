@@ -1,0 +1,199 @@
+anno,titolo_it,vincitore_miglior_attore,attore_nel_cast,presente_nel_cast,punteggio_similarita,anno_nascita,eta_alla_vittoria,vittorie_miglior_attore_in_carriera,nota
+1929,Ali,Emil Jannings,,False,,1884,45,2,
+1929,Ali,Emil Jannings,,False,,1884,45,2,
+1930,La canzone di Broadway,Warner Baxter,,False,,1889,41,2,
+1930,La canzone di Broadway,George Arliss,,False,,1868,62,2,
+1930,La canzone di Broadway,Warner Baxter,,False,,1889,41,2,
+1930,La canzone di Broadway,George Arliss,,False,,1868,62,2,
+1931,I pionieri del West,Lionel Barrymore,,False,,1878,53,2,
+1931,I pionieri del West,Lionel Barrymore,,False,,1878,53,2,
+1932,Grand Hotel,Wallace Beery,Wallace Beery,True,1.0,1885,47,2,
+1932,Grand Hotel,Fredric March,,False,,1897,35,4,
+1932,Grand Hotel,Wallace Beery,Wallace Beery,True,1.0,1885,47,2,
+1932,Grand Hotel,Fredric March,,False,,1897,35,4,
+1934,Cavalcata,Charles Laughton,,False,,1899,35,2,cast non disponibile per questo film
+1934,Cavalcata,Charles Laughton,,False,,1899,35,2,cast non disponibile per questo film
+1935,Accadde una notte,Clark Gable,Clark Gable,True,1.0,1901,34,2,
+1935,Accadde una notte,Clark Gable,Clark Gable,True,1.0,1901,34,2,
+1936,La tragedia del Bounty,Victor McLaglen,,False,,1886,50,2,
+1936,La tragedia del Bounty,Victor McLaglen,,False,,1886,50,2,
+1937,Il paradiso delle fanciulle,Paul Muni,,False,,1895,42,2,
+1937,Il paradiso delle fanciulle,Paul Muni,,False,,1895,42,2,
+1938,Emilio Zola,Spencer Tracy,,False,,1900,38,4,cast non disponibile per questo film
+1938,Emilio Zola,Spencer Tracy,,False,,1900,38,4,cast non disponibile per questo film
+1939,L'eterna illusione,Spencer Tracy,,False,,1900,39,4,
+1939,L'eterna illusione,Spencer Tracy,,False,,1900,39,4,
+1940,Via col vento,Robert Donat,,False,,1905,35,2,
+1940,Via col vento,Robert Donat,,False,,1905,35,2,
+1941,Rebecca - La prima moglie,James Stewart,,False,,1908,33,2,cast non disponibile per questo film
+1941,Rebecca - La prima moglie,James Stewart,,False,,1908,33,2,cast non disponibile per questo film
+1942,Com'era verde la mia valle,Gary Cooper,,False,,1901,41,4,
+1942,Com'era verde la mia valle,Gary Cooper,,False,,1901,41,4,
+1943,La signora Miniver,James Cagney,,False,,1899,44,2,
+1943,La signora Miniver,James Cagney,,False,,1899,44,2,
+1944,Casablanca,Paul Lukas,,False,,1894,50,2,cast non disponibile per questo film
+1944,Casablanca,Paul Lukas,,False,,1894,50,2,cast non disponibile per questo film
+1945,La mia via,Bing Crosby,Bing Crosby,True,1.0,1903,42,2,
+1945,La mia via,Bing Crosby,Bing Crosby,True,1.0,1903,42,2,
+1946,Giorni perduti,Ray Milland,Ray Milland,True,1.0,1907,39,2,
+1946,Giorni perduti,Ray Milland,Ray Milland,True,1.0,1907,39,2,
+1947,I migliori anni della nostra vita,Fredric March,Fredric March,True,1.0,1897,50,4,
+1947,I migliori anni della nostra vita,Fredric March,Fredric March,True,1.0,1897,50,4,
+1948,Barriera invisibile,Ronald Colman,,False,,1891,57,2,
+1948,Barriera invisibile,Ronald Colman,,False,,1891,57,2,
+1949,Amleto,Laurence Olivier,,False,,1907,42,2,
+1949,Amleto,Laurence Olivier,,False,,1907,42,2,
+1950,Tutti gli uomini del re,Broderick Crawford,,False,,1911,39,2,cast non disponibile per questo film
+1950,Tutti gli uomini del re,Broderick Crawford,,False,,1911,39,2,cast non disponibile per questo film
+1951,Eva contro Eva,José Ferrer,,False,,1912,39,2,
+1951,Eva contro Eva,José Ferrer,,False,,1912,39,2,
+1952,Un americano a Parigi,Humphrey Bogart,,False,,,,2,cast non disponibile per questo film; anno di nascita non trovato
+1952,Un americano a Parigi,Humphrey Bogart,,False,,,,2,cast non disponibile per questo film; anno di nascita non trovato
+1953,Il più grande spettacolo del mondo,Gary Cooper,,False,,1901,52,4,
+1953,Il più grande spettacolo del mondo,Gary Cooper,,False,,1901,52,4,
+1954,Da qui all'eternità,William Holden,,False,,1918,36,2,
+1954,Da qui all'eternità,William Holden,,False,,1918,36,2,
+1955,Fronte del porto,Marlon Brando,Marlon Brando,True,1.0,1924,31,4,
+1955,Fronte del porto,Marlon Brando,Marlon Brando,True,1.0,1924,31,4,
+1956,Marty,Ernest Borgnine,,False,,1917,39,2,cast non disponibile per questo film
+1956,Marty,Ernest Borgnine,,False,,1917,39,2,cast non disponibile per questo film
+1957,Il giro del mondo in 80 giorni,Yul Brynner,,False,,1920,37,2,
+1957,Il giro del mondo in 80 giorni,Yul Brynner,,False,,1920,37,2,
+1958,Il ponte sul fiume Kwai,Alec Guinness,,False,,1914,44,2,cast non disponibile per questo film
+1958,Il ponte sul fiume Kwai,Alec Guinness,,False,,1914,44,2,cast non disponibile per questo film
+1959,Gigi,David Niven,,False,,1910,49,2,
+1959,Gigi,David Niven,,False,,1910,49,2,
+1960,Ben-Hur,Charlton Heston,,False,,1923,37,2,
+1960,Ben-Hur,Charlton Heston,,False,,1923,37,2,
+1961,L'appartamento,Burt Lancaster,,False,,1913,48,2,
+1961,L'appartamento,Burt Lancaster,,False,,1913,48,2,
+1962,West Side Story,Maximilian Schell,,False,,1930,32,2,
+1962,West Side Story,Maximilian Schell,,False,,1930,32,2,
+1963,Lawrence d'Arabia,Gregory Peck,,False,,1916,47,2,cast non disponibile per questo film
+1963,Lawrence d'Arabia,Gregory Peck,,False,,1916,47,2,cast non disponibile per questo film
+1964,Tom Jones,Sidney Poitier,,False,,1927,37,2,cast non disponibile per questo film
+1964,Tom Jones,Sidney Poitier,,False,,1927,37,2,cast non disponibile per questo film
+1965,My Fair Lady,Rex Harrison,,False,,1908,57,2,cast non disponibile per questo film
+1965,My Fair Lady,Rex Harrison,,False,,1908,57,2,cast non disponibile per questo film
+1966,Tutti insieme appassionatamente,Lee Marvin,,False,,1924,42,2,
+1966,Tutti insieme appassionatamente,Lee Marvin,,False,,1924,42,2,
+1967,Un uomo per tutte le stagioni,Paul Scofield,Paul Scofield,True,1.0,1922,45,2,
+1967,Un uomo per tutte le stagioni,Paul Scofield,Paul Scofield,True,1.0,1922,45,2,
+1968,La calda notte dell'ispettore Tibbs,Rod Steiger,Rod Steiger,True,1.0,1925,43,2,
+1968,La calda notte dell'ispettore Tibbs,Rod Steiger,Rod Steiger,True,1.0,1925,43,2,
+1969,Oliver!,Cliff Robertson,,False,,1923,46,2,
+1969,Oliver!,Cliff Robertson,,False,,1923,46,2,
+1970,Un uomo da marciapiede,John Wayne,,False,,1907,63,2,
+1970,Un uomo da marciapiede,John Wayne,,False,,1907,63,2,
+1971,Patton,George C. Scott,,False,,1927,44,2,cast non disponibile per questo film
+1971,Patton,George C. Scott,,False,,1927,44,2,cast non disponibile per questo film
+1972,Il braccio violento della legge,Gene Hackman,Gene Hackman,True,1.0,1930,42,2,
+1972,Il braccio violento della legge,Gene Hackman,Gene Hackman,True,1.0,1930,42,2,
+1973,Il padrino,Marlon Brando,,False,,1924,49,4,cast non disponibile per questo film
+1973,Il padrino,Marlon Brando,,False,,1924,49,4,cast non disponibile per questo film
+1974,La stangata,Jack Lemmon,,False,,1925,49,2,
+1974,La stangata,Jack Lemmon,,False,,1925,49,2,
+1975,Il padrino - Parte II,Art Carney,,False,,1918,57,2,
+1975,Il padrino - Parte II,Art Carney,,False,,1918,57,2,
+1976,Qualcuno volò sul nido del cuculo,Jack Nicholson,Jack Nicholson,True,1.0,1937,39,4,
+1976,Qualcuno volò sul nido del cuculo,Jack Nicholson,Jack Nicholson,True,1.0,1937,39,4,
+1977,Rocky,Peter Finch,,False,,1916,61,2,
+1977,Rocky,Peter Finch,,False,,1916,61,2,
+1978,Io e Annie,Richard Dreyfuss,,False,,1947,31,2,
+1978,Io e Annie,Richard Dreyfuss,,False,,1947,31,2,
+1979,Il cacciatore,Jon Voight,,False,,1938,41,2,
+1979,Il cacciatore,Jon Voight,,False,,1938,41,2,
+1980,Kramer contro Kramer,Dustin Hoffman,Dustin Hoffman,True,1.0,1937,43,4,
+1980,Kramer contro Kramer,Dustin Hoffman,Dustin Hoffman,True,1.0,1937,43,4,
+1981,Gente comune,Robert De Niro,,False,,1943,38,2,cast non disponibile per questo film
+1981,Gente comune,Robert De Niro,,False,,1943,38,2,cast non disponibile per questo film
+1982,Momenti di gloria,Henry Fonda,,False,,1905,77,2,
+1982,Momenti di gloria,Henry Fonda,,False,,1905,77,2,
+1983,Gandhi,Ben Kingsley,,False,,1943,40,2,cast non disponibile per questo film
+1983,Gandhi,Ben Kingsley,,False,,1943,40,2,cast non disponibile per questo film
+1984,Voglia di tenerezza,Robert Duvall,,False,,1931,53,2,
+1984,Voglia di tenerezza,Robert Duvall,,False,,1931,53,2,
+1985,Amadeus,F. Murray Abraham,,False,,1939,46,2,cast non disponibile per questo film
+1985,Amadeus,F. Murray Abraham,,False,,1939,46,2,cast non disponibile per questo film
+1986,La mia Africa,William Hurt,,False,,1950,36,2,cast non disponibile per questo film
+1986,La mia Africa,William Hurt,,False,,1950,36,2,cast non disponibile per questo film
+1987,Platoon,Paul Newman,,False,,1925,62,2,
+1987,Platoon,Paul Newman,,False,,1925,62,2,
+1988,L'ultimo imperatore,Michael Douglas,,False,,1944,44,2,
+1988,L'ultimo imperatore,Michael Douglas,,False,,1944,44,2,
+1989,Rain Man - L'uomo della pioggia,Dustin Hoffman,Dustin Hoffman,True,1.0,1937,52,4,
+1989,Rain Man - L'uomo della pioggia,Dustin Hoffman,Dustin Hoffman,True,1.0,1937,52,4,
+1990,A spasso con Daisy,Daniel Day-Lewis,,False,,1957,33,6,
+1990,A spasso con Daisy,Daniel Day-Lewis,,False,,1957,33,6,
+1991,Balla coi lupi,Jeremy Irons,,False,,1948,43,2,
+1991,Balla coi lupi,Jeremy Irons,,False,,1948,43,2,
+1992,Il silenzio degli innocenti,Anthony Hopkins,,False,,1937,55,4,cast non disponibile per questo film
+1992,Il silenzio degli innocenti,Anthony Hopkins,,False,,1937,55,4,cast non disponibile per questo film
+1993,Gli spietati,Al Pacino,,False,,1940,53,2,
+1993,Gli spietati,Al Pacino,,False,,1940,53,2,
+1994,Schindler's List - La lista di Schindler,Tom Hanks,,False,,1956,38,4,
+1994,Schindler's List - La lista di Schindler,Tom Hanks,,False,,1956,38,4,
+1995,Forrest Gump,Tom Hanks,Tom Hanks,True,1.0,1956,39,4,
+1995,Forrest Gump,Tom Hanks,Tom Hanks,True,1.0,1956,39,4,
+1996,Braveheart - Cuore impavido,Nicolas Cage,,False,,1964,32,2,
+1996,Braveheart - Cuore impavido,Nicolas Cage,,False,,1964,32,2,
+1997,Il paziente inglese,Geoffrey Rush,,False,,1951,46,2,
+1997,Il paziente inglese,Geoffrey Rush,,False,,1951,46,2,
+1998,Titanic,Jack Nicholson,,False,,1937,61,4,
+1998,Titanic,Jack Nicholson,,False,,1937,61,4,
+1999,Shakespeare in Love,Roberto Benigni,,False,,1952,47,2,
+1999,Shakespeare in Love,Roberto Benigni,,False,,1952,47,2,
+2000,American Beauty,Kevin Spacey,Kevin Spacey,True,1.0,1959,41,2,
+2000,American Beauty,Kevin Spacey,Kevin Spacey,True,1.0,1959,41,2,
+2001,Il gladiatore,Russell Crowe,Russell Crowe,True,1.0,1964,37,2,
+2001,Il gladiatore,Russell Crowe,Russell Crowe,True,1.0,1964,37,2,
+2002,A Beautiful Mind,Denzel Washington,,False,,1954,48,2,
+2002,A Beautiful Mind,Denzel Washington,,False,,1954,48,2,
+2003,Chicago,Adrien Brody,,False,,1973,30,4,
+2003,Chicago,Adrien Brody,,False,,1973,30,4,
+2004,Il Signore degli Anelli - Il ritorno del re,Sean Penn,,False,,1960,44,4,
+2004,Il Signore degli Anelli - Il ritorno del re,Sean Penn,,False,,1960,44,4,
+2005,Million Dollar Baby,Jamie Foxx,,False,,1967,38,2,
+2005,Million Dollar Baby,Jamie Foxx,,False,,1967,38,2,
+2006,Crash - Contatto fisico,Philip Seymour Hoffman,,False,,1967,39,2,
+2006,Crash - Contatto fisico,Philip Seymour Hoffman,,False,,1967,39,2,
+2007,The Departed - Il bene e il male,Forest Whitaker,,False,,1961,46,2,
+2007,The Departed - Il bene e il male,Forest Whitaker,,False,,1961,46,2,
+2008,Non è un paese per vecchi,Daniel Day-Lewis,,False,,1957,51,6,cast non disponibile per questo film
+2008,Non è un paese per vecchi,Daniel Day-Lewis,,False,,1957,51,6,cast non disponibile per questo film
+2009,The Millionaire,Sean Penn,,False,,1960,49,4,
+2009,The Millionaire,Sean Penn,,False,,1960,49,4,
+2010,The Hurt Locker,Jeff Bridges,,False,,1949,61,2,
+2010,The Hurt Locker,Jeff Bridges,,False,,1949,61,2,
+2011,Il discorso del re,Colin Firth,Colin Firth,True,1.0,1960,51,2,
+2011,Il discorso del re,Colin Firth,Colin Firth,True,1.0,1960,51,2,
+2012,The Artist,Jean Dujardin,,False,,1972,40,2,cast non disponibile per questo film
+2012,The Artist,Jean Dujardin,,False,,1972,40,2,cast non disponibile per questo film
+2013,Argo,Daniel Day-Lewis,,False,,1957,56,6,cast non disponibile per questo film
+2013,Argo,Daniel Day-Lewis,,False,,1957,56,6,cast non disponibile per questo film
+2014,12 anni schiavo,Matthew McConaughey,,False,,1969,45,2,
+2014,12 anni schiavo,Matthew McConaughey,,False,,1969,45,2,
+2015,Birdman,Eddie Redmayne,,False,,1982,33,2,cast non disponibile per questo film
+2015,Birdman,Eddie Redmayne,,False,,1982,33,2,cast non disponibile per questo film
+2016,Il caso Spotlight,Leonardo DiCaprio,,False,,1974,42,2,
+2016,Il caso Spotlight,Leonardo DiCaprio,,False,,1974,42,2,
+2017,Moonlight,Casey Affleck,,False,,1975,42,2,
+2017,Moonlight,Casey Affleck,,False,,1975,42,2,
+2018,La forma dell'acqua - The Shape of Water,Gary Oldman,,False,,1958,60,2,
+2018,La forma dell'acqua - The Shape of Water,Gary Oldman,,False,,1958,60,2,
+2019,Green Book,Rami Malek,,False,,1981,38,2,cast non disponibile per questo film
+2019,Green Book,Rami Malek,,False,,1981,38,2,cast non disponibile per questo film
+2020,Parasite,Joaquin Phoenix,,False,,1974,46,2,
+2020,Parasite,Joaquin Phoenix,,False,,1974,46,2,
+2021,Nomadland,Anthony Hopkins,,False,,1937,84,4,
+2021,Nomadland,Anthony Hopkins,,False,,1937,84,4,
+2022,CODA - I segni del cuore,Will Smith,,False,,1968,54,2,
+2022,CODA - I segni del cuore,Will Smith,,False,,1968,54,2,
+2023,Everything Everywhere All at Once,Brendan Fraser,,False,,1968,55,2,
+2023,Everything Everywhere All at Once,Brendan Fraser,,False,,1968,55,2,
+2024,Oppenheimer,Cillian Murphy,,False,,1976,48,2,cast non disponibile per questo film
+2024,Oppenheimer,Cillian Murphy,,False,,1976,48,2,cast non disponibile per questo film
+2025,Anora,Adrien Brody,,False,,1973,52,4,
+2025,Anora,Adrien Brody,,False,,1973,52,4,
+2026,Una battaglia dopo l'altra,Michael B. Jordan,,False,,1987,39,2,
+2026,Una battaglia dopo l'altra,Michael B. Jordan,,False,,1987,39,2,

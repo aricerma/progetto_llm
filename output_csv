@@ -1,0 +1,13 @@
+import csv
+import pathlib
+
+def save_csv(data: list[dict], path: str = "oscar_miglior_film.csv"):
+    """Salva i dati in un file CSV."""
+    if not data:
+        return
+    fieldnames = ["anno", "edizione", "vincitore", "titolo_it", "titolo_orig", "regista"]
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
+    print(f"CSV salvato: {pathlib.Path(path).resolve()}")

@@ -1,0 +1,6212 @@
+[
+  {
+    "anno": "1929",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Ali",
+    "titolo_orig": "Wings",
+    "regista": "William A. Wellman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1929",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Racket",
+    "titolo_orig": "",
+    "regista": "Lewis Milestone",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1929",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Settimo cielo",
+    "titolo_orig": "Seventh Heaven",
+    "regista": "Frank Borzage",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "aprile",
+    "vincitore": "True",
+    "titolo_it": "La canzone di Broadway",
+    "titolo_orig": "The Broadway Melody",
+    "regista": "Harry Beaumont",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "aprile",
+    "vincitore": "False",
+    "titolo_it": "Alibi",
+    "titolo_orig": "",
+    "regista": "Roland West",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "aprile",
+    "vincitore": "False",
+    "titolo_it": "Hollywood che canta",
+    "titolo_orig": "The Hollywood Revue of 1929",
+    "regista": "Charles Reisner",
+    "genere": "Musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "aprile",
+    "vincitore": "False",
+    "titolo_it": "Notte di tradimento",
+    "titolo_orig": "In Old Arizona",
+    "regista": "Irving Cummings e Raoul Walsh",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "aprile",
+    "vincitore": "False",
+    "titolo_it": "Lo zar folle",
+    "titolo_orig": "The Patriot",
+    "regista": "Ernst Lubitsch",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "novembre",
+    "vincitore": "True",
+    "titolo_it": "All'ovest niente di nuovo",
+    "titolo_orig": "All Quiet on the Western Front",
+    "regista": "Lewis Milestone",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "novembre",
+    "vincitore": "False",
+    "titolo_it": "Carcere",
+    "titolo_orig": "The Big House",
+    "regista": "George W. Hill",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "novembre",
+    "vincitore": "False",
+    "titolo_it": "Disraeli",
+    "titolo_orig": "",
+    "regista": "Alfred E. Green",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "novembre",
+    "vincitore": "False",
+    "titolo_it": "La divorziata",
+    "titolo_orig": "The Divorcee",
+    "regista": "Robert Z. Leonard",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1930",
+    "edizione": "novembre",
+    "vincitore": "False",
+    "titolo_it": "Il principe consorte",
+    "titolo_orig": "The Love Parade",
+    "regista": "Ernst Lubitsch",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1931",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "I pionieri del West",
+    "titolo_orig": "Cimarron",
+    "regista": "Wesley Ruggles",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1931",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Front Page",
+    "titolo_orig": "",
+    "regista": "Lewis Milestone",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1931",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ripudiata",
+    "titolo_orig": "East Lynne",
+    "regista": "Frank Lloyd",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1931",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Skippy",
+    "titolo_orig": "",
+    "regista": "Norman Taurog",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1931",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Trader Horn",
+    "titolo_orig": "",
+    "regista": "W. S. Van Dyke",
+    "genere": "avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Grand Hotel",
+    "titolo_orig": "",
+    "regista": "Edmund Goulding",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'allegro tenente",
+    "titolo_orig": "The Smiling Lieutenant",
+    "regista": "Ernst Lubitsch",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bad Girl",
+    "titolo_orig": "",
+    "regista": "Frank Borzage",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il campione",
+    "titolo_orig": "The Champ",
+    "regista": "King Vidor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Five Star Final",
+    "titolo_orig": "",
+    "regista": "Mervyn LeRoy",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un'ora d'amore",
+    "titolo_orig": "One Hour with You",
+    "regista": "George Cukor e Ernst Lubitsch",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un popolo muore",
+    "titolo_orig": "Arrowsmith",
+    "regista": "John Ford",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1932",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Shanghai Express",
+    "titolo_orig": "",
+    "regista": "Josef von Sternberg",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Cavalcata",
+    "titolo_orig": "Cavalcade",
+    "regista": "Frank Lloyd",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Addio alle armi",
+    "titolo_orig": "A Farewell to Arms",
+    "regista": "Frank Borzage",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Catene",
+    "titolo_orig": "Smilin' Through",
+    "regista": "Sidney Franklin",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Io sono un evaso",
+    "titolo_orig": "I Am a Fugitive from a Chain Gang",
+    "regista": "Mervyn LeRoy",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lady Lou",
+    "titolo_orig": "She Done Him Wrong",
+    "regista": "Lowell Sherman",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Montagne russe",
+    "titolo_orig": "State Fair",
+    "regista": "Henry King",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Piccole donne",
+    "titolo_orig": "Little Women",
+    "regista": "George Cukor",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quarantaduesima strada",
+    "titolo_orig": "42nd Street",
+    "regista": "Lloyd Bacon",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le sei mogli di Enrico VIII",
+    "titolo_orig": "The Private Life of Henry VIII",
+    "regista": "Alexander Korda",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1934",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Signora per un giorno",
+    "titolo_orig": "Lady for a Day",
+    "regista": "Frank Capra",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Accadde una notte",
+    "titolo_orig": "It Happened One Night",
+    "regista": "Frank Capra",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Angeli del dolore",
+    "titolo_orig": "The White Parade",
+    "regista": "Irving Cummings",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La casa dei Rothschild",
+    "titolo_orig": "The House of Rothschild",
+    "regista": "Alfred L. Werker",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cerco il mio amore",
+    "titolo_orig": "The Gay Divorcee",
+    "regista": "Mark Sandrich",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cleopatra",
+    "titolo_orig": "",
+    "regista": "Cecil B. DeMille",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La famiglia Barrett",
+    "titolo_orig": "The Barretts of Wimpole Street",
+    "regista": "Sidney Franklin",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Marinai all'erta",
+    "titolo_orig": "Here Comes the Navy",
+    "regista": "Lloyd Bacon",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Una notte d'amore",
+    "titolo_orig": "One Night of Love",
+    "regista": "Victor Schertzinger",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Passeggiata d'amore",
+    "titolo_orig": "Flirtation Walk",
+    "regista": "Frank Borzage",
+    "genere": "Musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lo specchio della vita",
+    "titolo_orig": "Imitation of Life",
+    "regista": "John M. Stahl",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'uomo ombra",
+    "titolo_orig": "The Thin Man",
+    "regista": "W. S. Van Dyke",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1935",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Viva Villa!",
+    "titolo_orig": "",
+    "regista": "Jack Conway",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La tragedia del Bounty",
+    "titolo_orig": "Mutiny on the Bounty",
+    "regista": "Frank Lloyd",
+    "genere": "avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Capitan Blood",
+    "titolo_orig": "Captain Blood",
+    "regista": "Michael Curtiz",
+    "genere": "Azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cappello a cilindro",
+    "titolo_orig": "Top Hat",
+    "regista": "Mark Sandrich",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Davide Copperfield",
+    "titolo_orig": "David Copperfield",
+    "regista": "George Cukor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Follie di Broadway 1936",
+    "titolo_orig": "Broadway Melody of 1936",
+    "regista": "Roy Del Ruth",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I lancieri del Bengala",
+    "titolo_orig": "The Lives of a Bengal Lancer",
+    "regista": "Henry Hathaway",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il maggiordomo",
+    "titolo_orig": "Ruggles of Red Gap",
+    "regista": "Leo McCarey",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Primo amore",
+    "titolo_orig": "Alice Adams",
+    "regista": "George Stevens",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il sergente di ferro",
+    "titolo_orig": "Les miserables",
+    "regista": "Richard Boleslawski",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sogno di una notte di mezza estate",
+    "titolo_orig": "A Midsummer Night's Dream",
+    "regista": "William Dieterle e Max Reinhardt",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Terra senza donne",
+    "titolo_orig": "Naughty Marietta",
+    "regista": "W. S. Van Dyke",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1936",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il traditore",
+    "titolo_orig": "The Informer",
+    "regista": "John Ford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il paradiso delle fanciulle",
+    "titolo_orig": "The Great Ziegfeld",
+    "regista": "Robert Z. Leonard",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Avorio nero",
+    "titolo_orig": "Anthony Adverse",
+    "regista": "Mervyn LeRoy",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La donna del giorno",
+    "titolo_orig": "Libeled Lady",
+    "regista": "Jack Conway",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le due città",
+    "titolo_orig": "A Tale of Two Cities",
+    "regista": "Jack Conway",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "È arrivata la felicità",
+    "titolo_orig": "Mr. Deeds Goes to Town",
+    "regista": "Frank Capra",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Giulietta e Romeo",
+    "titolo_orig": "Romeo and Juliet",
+    "regista": "George Cukor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Infedeltà",
+    "titolo_orig": "Dodsworth",
+    "regista": "William Wyler",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "San Francisco",
+    "titolo_orig": "",
+    "regista": "W. S. Van Dyke",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tre ragazze in gamba",
+    "titolo_orig": "Three Smart Girls",
+    "regista": "Henry Koster",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1937",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La vita del dottor Pasteur",
+    "titolo_orig": "The Story of Louis Pasteur",
+    "regista": "William Dieterle",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Emilio Zola",
+    "titolo_orig": "The Life of Emile Zola",
+    "regista": "William Dieterle",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La buona terra",
+    "titolo_orig": "The Good Earth",
+    "regista": "Sidney Franklin",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Capitani coraggiosi",
+    "titolo_orig": "Captains Courageous",
+    "regista": "Victor Fleming",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cento uomini e una ragazza",
+    "titolo_orig": "One Hundred Men and a Girl",
+    "regista": "Henry Koster",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "È nata una stella",
+    "titolo_orig": "A Star Is Born",
+    "regista": "William A. Wellman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'incendio di Chicago",
+    "titolo_orig": "In Old Chicago",
+    "regista": "Henry King",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Orizzonte perduto",
+    "titolo_orig": "Lost Horizon",
+    "regista": "Frank Capra",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'orribile verità",
+    "titolo_orig": "The Awful Truth",
+    "regista": "Leo McCarey",
+    "genere": "Romantico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Palcoscenico",
+    "titolo_orig": "Stage Door",
+    "regista": "Gregory La Cava",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1938",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Strada sbarrata",
+    "titolo_orig": "Dead End",
+    "regista": "William Wyler",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "L'eterna illusione",
+    "titolo_orig": "You Can't Take It with You",
+    "regista": "Frank Capra",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Arditi dell'aria",
+    "titolo_orig": "Test Pilot",
+    "regista": "Victor Fleming",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La città dei ragazzi",
+    "titolo_orig": "Boys Town",
+    "regista": "Norman Taurog",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La cittadella",
+    "titolo_orig": "The Citadel",
+    "regista": "King Vidor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Figlia del vento",
+    "titolo_orig": "Jezebel",
+    "regista": "William Wyler",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La grande illusione",
+    "titolo_orig": "Grand Illusion",
+    "regista": "Jean Renoir",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La grande strada bianca",
+    "titolo_orig": "Alexander's Ragtime Band",
+    "regista": "Henry King",
+    "genere": "Musical",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Pigmalione",
+    "titolo_orig": "Pygmalion",
+    "regista": "Anthony Asquith e Leslie Howard",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quattro figlie",
+    "titolo_orig": "Four Daughters",
+    "regista": "Michael Curtiz",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1939",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La leggenda di Robin Hood",
+    "titolo_orig": "The Adventures of Robin Hood",
+    "regista": "Michael Curtiz",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Via col vento",
+    "titolo_orig": "Gone with the Wind",
+    "regista": "Victor Fleming",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Addio",
+    "titolo_orig": "Goodbye, Mr. Chips",
+    "regista": "Sam Wood",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un grande amore",
+    "titolo_orig": "Love Affair",
+    "regista": "Leo McCarey",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il mago di Oz",
+    "titolo_orig": "The Wizard of Oz",
+    "regista": "Victor Fleming",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mr. Smith va a Washington",
+    "titolo_orig": "Mr. Smith Goes to Washington",
+    "regista": "Frank Capra",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ninotchka",
+    "titolo_orig": "",
+    "regista": "Ernst Lubitsch",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ombre rosse",
+    "titolo_orig": "Stagecoach",
+    "regista": "John Ford",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tramonto",
+    "titolo_orig": "Dark Victory",
+    "regista": "Edmund Goulding",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Uomini e topi",
+    "titolo_orig": "Of Mice and Men",
+    "regista": "Lewis Milestone",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1940",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La voce nella tempesta",
+    "titolo_orig": "Wuthering Heights",
+    "regista": "William Wyler",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Rebecca - La prima moglie",
+    "titolo_orig": "Rebecca",
+    "regista": "Alfred Hitchcock",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Furore",
+    "titolo_orig": "The Grapes of Wrath",
+    "regista": "John Ford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il grande dittatore",
+    "titolo_orig": "The Great Dictator",
+    "regista": "Charles Chaplin",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Kitty Foyle",
+    "titolo_orig": "Kitty Foyle",
+    "regista": "Sam Wood",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La nostra città",
+    "titolo_orig": "Our Town",
+    "regista": "Sam Wood",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ombre malesi",
+    "titolo_orig": "The Letter",
+    "regista": "William Wyler",
+    "genere": "Noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Paradiso proibito",
+    "titolo_orig": "All This, and Heaven Too",
+    "regista": "Anatole Litvak",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il prigioniero di Amsterdam",
+    "titolo_orig": "Foreign Correspondent",
+    "regista": "Alfred Hitchcock",
+    "genere": "spionaggio",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Scandalo a Filadelfia",
+    "titolo_orig": "The Philadelphia Story",
+    "regista": "George Cukor",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1941",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lungo viaggio di ritorno",
+    "titolo_orig": "The Long Voyage Home",
+    "regista": "John Ford",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Com'era verde la mia valle",
+    "titolo_orig": "How Green Was My Valley",
+    "regista": "John Ford",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Fiori nella polvere",
+    "titolo_orig": "Blossoms in the Dust",
+    "regista": "Mervyn LeRoy",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'inafferrabile signor Jordan",
+    "titolo_orig": "Here Comes Mr. Jordan",
+    "regista": "Alexander Hall",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il mistero del falco",
+    "titolo_orig": "The Maltese Falcon",
+    "regista": "John Huston",
+    "genere": "Noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Piccole volpi",
+    "titolo_orig": "The Little Foxes",
+    "regista": "William Wyler",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un piede in paradiso",
+    "titolo_orig": "One Foot in Heaven",
+    "regista": "Irving Rapper",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La porta d'oro",
+    "titolo_orig": "Hold Back the Dawn",
+    "regista": "Mitchell Leisen",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quarto potere",
+    "titolo_orig": "Citizen Kane",
+    "regista": "Orson Welles",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il sergente York",
+    "titolo_orig": "Sergeant York",
+    "regista": "Howard Hawks",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1942",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il sospetto",
+    "titolo_orig": "Suspicion",
+    "regista": "Alfred Hitchcock",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La signora Miniver",
+    "titolo_orig": "Mrs. Miniver",
+    "regista": "William Wyler",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Delitti senza castigo",
+    "titolo_orig": "Kings Row",
+    "regista": "Sam Wood",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un evaso ha bussato alla porta",
+    "titolo_orig": "The Talk of the Town",
+    "regista": "George Stevens",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'idolo delle folle",
+    "titolo_orig": "The Pride of the Yankees",
+    "regista": "Sam Wood",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gli invasori",
+    "titolo_orig": "The Invaders",
+    "regista": "Michael Powell",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'isola della gloria",
+    "titolo_orig": "Wake Island",
+    "regista": "John Farrow",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'orgoglio degli Amberson",
+    "titolo_orig": "The Magnificent Ambersons",
+    "regista": "Orson Welles",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Pied Piper",
+    "titolo_orig": "",
+    "regista": "Irving Pichel",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Prigionieri del passato",
+    "titolo_orig": "Random Harvest",
+    "regista": "Mervyn LeRoy",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1943",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ribalta di gloria",
+    "titolo_orig": "Yankee Doodle Dandy",
+    "regista": "Michael Curtiz",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Casablanca",
+    "titolo_orig": "",
+    "regista": "Michael Curtiz",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Alba fatale",
+    "titolo_orig": "The Ox-Bow Incident",
+    "regista": "William A. Wellman",
+    "genere": "Western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bernadette",
+    "titolo_orig": "The Song of Bernadette",
+    "regista": "Henry King",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il cielo può attendere",
+    "titolo_orig": "Heaven Can Wait",
+    "regista": "Ernst Lubitsch",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La commedia umana",
+    "titolo_orig": "The Human Comedy",
+    "regista": "Clarence Brown",
+    "genere": "romanzi, novelle, racconti, saggi",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Eroi del mare",
+    "titolo_orig": "In Which We Serve",
+    "regista": "Noël Coward e David Lean",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Madame Curie",
+    "titolo_orig": "Madame Curie",
+    "regista": "Mervyn LeRoy",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Molta brigata vita beata",
+    "titolo_orig": "The More the Merrier",
+    "regista": "George Stevens",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Per chi suona la campana",
+    "titolo_orig": "For Whom the Bell Tolls",
+    "regista": "Sam Wood",
+    "genere": "Romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1944",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quando il giorno verrà",
+    "titolo_orig": "Watch on the Rhine",
+    "regista": "Herman Shumlin",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1945",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La mia via",
+    "titolo_orig": "Going My Way",
+    "regista": "Leo McCarey",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1945",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Angoscia",
+    "titolo_orig": "Gaslight",
+    "regista": "George Cukor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1945",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Da quando te ne andasti",
+    "titolo_orig": "Since You Went Away",
+    "regista": "John Cromwell",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1945",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La fiamma del peccato",
+    "titolo_orig": "Double Indemnity",
+    "regista": "Billy Wilder",
+    "genere": "noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1945",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Wilson",
+    "titolo_orig": "",
+    "regista": "Henry King",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1946",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Giorni perduti",
+    "titolo_orig": "The Lost Weekend",
+    "regista": "Billy Wilder",
+    "genere": "noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1946",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le campane di Santa Maria",
+    "titolo_orig": "The Bells of St. Mary's",
+    "regista": "Leo McCarey",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1946",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Due marinai e una ragazza",
+    "titolo_orig": "Canta che ti passa",
+    "regista": "George Sidney",
+    "genere": "comico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1946",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Io ti salverò",
+    "titolo_orig": "Spellbound",
+    "regista": "Alfred Hitchcock",
+    "genere": "Giallo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1946",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il romanzo di Mildred",
+    "titolo_orig": "Mildred Pierce",
+    "regista": "Michael Curtiz",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1947",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "I migliori anni della nostra vita",
+    "titolo_orig": "The Best Years of Our Lives",
+    "regista": "William Wyler",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1947",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il cucciolo",
+    "titolo_orig": "The Yearling",
+    "regista": "Clarence Brown",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1947",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Enrico V",
+    "titolo_orig": "Henry V",
+    "regista": "Laurence Olivier",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1947",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il filo del rasoio",
+    "titolo_orig": "The Razor's Edge",
+    "regista": "Edmund Goulding",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1947",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La vita è meravigliosa",
+    "titolo_orig": "It's a Wonderful Life",
+    "regista": "Frank Capra",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1948",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Barriera invisibile",
+    "titolo_orig": "Gentleman's Agreement",
+    "regista": "Elia Kazan",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1948",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Grandi speranze",
+    "titolo_orig": "Great Expectations",
+    "regista": "David Lean",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1948",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il miracolo della 34ª strada",
+    "titolo_orig": "Miracle on 34th Street",
+    "regista": "George Seaton",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1948",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La moglie del vescovo",
+    "titolo_orig": "The Bishop's Wife",
+    "regista": "Henry Koster",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1948",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Odio implacabile",
+    "titolo_orig": "Crossfire",
+    "regista": "Edward Dmytryk",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1949",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Amleto",
+    "titolo_orig": "Hamlet",
+    "regista": "Laurence Olivier",
+    "genere": "Tragedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1949",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La fossa dei serpenti",
+    "titolo_orig": "The Snake Pit",
+    "regista": "Anatole Litvak",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1949",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Johnny Belinda",
+    "titolo_orig": "",
+    "regista": "Jean Negulesco",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1949",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Scarpette rosse",
+    "titolo_orig": "The Red Shoes",
+    "regista": "Michael Powell e Emeric Pressburger",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1949",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il tesoro della Sierra Madre",
+    "titolo_orig": "The Treasure of the Sierra Madre",
+    "regista": "John Huston",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1950",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Tutti gli uomini del re",
+    "titolo_orig": "All the King's Men",
+    "regista": "Robert Rossen",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1950",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bastogne",
+    "titolo_orig": "Battleground",
+    "regista": "William A. Wellman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1950",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cielo di fuoco",
+    "titolo_orig": "Twelve O'Clock High",
+    "regista": "Henry King",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1950",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'ereditiera",
+    "titolo_orig": "The Heiress",
+    "regista": "William Wyler",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1950",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lettera a tre mogli",
+    "titolo_orig": "A Letter to Three Wives",
+    "regista": "Joseph L. Mankiewicz",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1951",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Eva contro Eva",
+    "titolo_orig": "All About Eve",
+    "regista": "Joseph L. Mankiewicz",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1951",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le miniere del re Salomone",
+    "titolo_orig": "King Solomon's Mines",
+    "regista": "Compton Bennett e Andrew Marton",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1951",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nata ieri",
+    "titolo_orig": "Born Yesterday",
+    "regista": "George Cukor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1951",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il padre della sposa",
+    "titolo_orig": "Father of the Bride",
+    "regista": "Vincente Minnelli",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1951",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Viale del tramonto",
+    "titolo_orig": "Sunset Boulevard",
+    "regista": "Billy Wilder",
+    "genere": "noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1952",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Un americano a Parigi",
+    "titolo_orig": "An American in Paris",
+    "regista": "Vincente Minnelli",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1952",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I dannati",
+    "titolo_orig": "Decision Before Dawn",
+    "regista": "Anatole Litvak",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1952",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un posto al sole",
+    "titolo_orig": "A Place in the Sun",
+    "regista": "George Stevens",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1952",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quo vadis",
+    "titolo_orig": "Quo Vadis",
+    "regista": "Mervyn LeRoy",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1952",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un tram che si chiama Desiderio",
+    "titolo_orig": "A Streetcar Named Desire",
+    "regista": "Elia Kazan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1953",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il più grande spettacolo del mondo",
+    "titolo_orig": "The Greatest Show on Earth",
+    "regista": "Cecil B. DeMille",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1953",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ivanhoe",
+    "titolo_orig": "",
+    "regista": "Richard Thorpe",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1953",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mezzogiorno di fuoco",
+    "titolo_orig": "High Noon",
+    "regista": "Fred Zinnemann",
+    "genere": "Western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1953",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Moulin Rouge",
+    "titolo_orig": "",
+    "regista": "John Huston",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1953",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un uomo tranquillo",
+    "titolo_orig": "The Quiet Man",
+    "regista": "John Ford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1954",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Da qui all'eternità",
+    "titolo_orig": "From Here to Eternity",
+    "regista": "Fred Zinnemann",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1954",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il cavaliere della valle solitaria",
+    "titolo_orig": "Shane",
+    "regista": "George Stevens",
+    "genere": "Western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1954",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Giulio Cesare",
+    "titolo_orig": "Julius Caesar",
+    "regista": "Joseph L. Mankiewicz",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1954",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La tunica",
+    "titolo_orig": "The Robe",
+    "regista": "Henry Koster",
+    "genere": "Storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1954",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Vacanze romane",
+    "titolo_orig": "Roman Holiday",
+    "regista": "William Wyler",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1955",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Fronte del porto",
+    "titolo_orig": "On the Waterfront",
+    "regista": "Elia Kazan",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1955",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'ammutinamento del Caine",
+    "titolo_orig": "The Caine Mutiny",
+    "regista": "Edward Dmytryk",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1955",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La ragazza di campagna",
+    "titolo_orig": "The Country Girl",
+    "regista": "George Seaton",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1955",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sette spose per sette fratelli",
+    "titolo_orig": "Seven Brides for Seven Brothers",
+    "regista": "Stanley Donen",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1955",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tre soldi nella fontana",
+    "titolo_orig": "Three Coins in the Fountain",
+    "regista": "Jean Negulesco",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1956",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Marty",
+    "titolo_orig": "Marty",
+    "regista": "Delbert Mann",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1956",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'amore è una cosa meravigliosa",
+    "titolo_orig": "Love is a Many Splendored Thing",
+    "regista": "Henry King",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1956",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La nave matta di Mister Roberts",
+    "titolo_orig": "Mister Roberts",
+    "regista": "John Ford e Mervyn LeRoy",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1956",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Picnic",
+    "titolo_orig": "",
+    "regista": "Joshua Logan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1956",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La rosa tatuata",
+    "titolo_orig": "The Rose Tattoo",
+    "regista": "Daniel Mann",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1957",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il giro del mondo in 80 giorni",
+    "titolo_orig": "Around the World in Eighty Days",
+    "regista": "Michael Anderson",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1957",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I dieci comandamenti",
+    "titolo_orig": "The Ten Commandments",
+    "regista": "Cecil B. DeMille",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1957",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il gigante",
+    "titolo_orig": "Giant",
+    "regista": "George Stevens",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1957",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La legge del Signore",
+    "titolo_orig": "Friendly Persuasion",
+    "regista": "William Wyler",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1957",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il re ed io",
+    "titolo_orig": "The King and I",
+    "regista": "Walter Lang",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1958",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il ponte sul fiume Kwai",
+    "titolo_orig": "The Bridge on the River Kwai",
+    "regista": "David Lean",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1958",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La parola ai giurati",
+    "titolo_orig": "Twelve Angry Men",
+    "regista": "Sidney Lumet",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1958",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I peccatori di Peyton",
+    "titolo_orig": "Peyton Place",
+    "regista": "Mark Robson",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1958",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sayonara",
+    "titolo_orig": "Sayonara",
+    "regista": "Joshua Logan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1958",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Testimone d'accusa",
+    "titolo_orig": "Witness for the Prosecution",
+    "regista": "Billy Wilder",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1959",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Gigi",
+    "titolo_orig": "",
+    "regista": "Vincente Minnelli",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1959",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La gatta sul tetto che scotta",
+    "titolo_orig": "Cat on a Hot Tin Roof",
+    "regista": "Richard Brooks",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1959",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La parete di fango",
+    "titolo_orig": "The Defiant Ones",
+    "regista": "Stanley Kramer",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1959",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La signora mia zia",
+    "titolo_orig": "Auntie Mame",
+    "regista": "Morton DaCosta",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1959",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tavole separate",
+    "titolo_orig": "Separate Tables",
+    "regista": "Delbert Mann",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1960",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Ben-Hur",
+    "titolo_orig": "",
+    "regista": "William Wyler",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1960",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Anatomia di un omicidio",
+    "titolo_orig": "Anatomy of a Murder",
+    "regista": "Otto Preminger",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1960",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il diario di Anna Frank",
+    "titolo_orig": "The Diary of Anne Frank",
+    "regista": "George Stevens",
+    "genere": "diaristico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1960",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La storia di una monaca",
+    "titolo_orig": "The Nun's Story",
+    "regista": "Fred Zinnemann",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1960",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La strada dei quartieri alti",
+    "titolo_orig": "Room at the Top",
+    "regista": "Jack Clayton",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1961",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "L'appartamento",
+    "titolo_orig": "The Apartment",
+    "regista": "Billy Wilder",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1961",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La battaglia di Alamo",
+    "titolo_orig": "The Alamo",
+    "regista": "John Wayne",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1961",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Figli e amanti",
+    "titolo_orig": "Sons and Lovers",
+    "regista": "Jack Cardiff",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1961",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il figlio di Giuda",
+    "titolo_orig": "Elmer Gantry",
+    "regista": "Richard Brooks",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1961",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I nomadi",
+    "titolo_orig": "The Sundowners",
+    "regista": "Fred Zinnemann",
+    "genere": "Musica Leggera",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1962",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "West Side Story",
+    "titolo_orig": "",
+    "regista": "Robert Wise e Jerome Robbins",
+    "genere": "Musical",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1962",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I cannoni di Navarone",
+    "titolo_orig": "The Guns of Navarone",
+    "regista": "J. Lee Thompson",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1962",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Fanny",
+    "titolo_orig": "",
+    "regista": "Joshua Logan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1962",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lo spaccone",
+    "titolo_orig": "The Hustler",
+    "regista": "Robert Rossen",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1962",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Vincitori e vinti",
+    "titolo_orig": "Judgment at Nuremberg",
+    "regista": "Stanley Kramer",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1963",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Lawrence d'Arabia",
+    "titolo_orig": "Lawrence of Arabia",
+    "regista": "David Lean",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1963",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gli ammutinati del Bounty",
+    "titolo_orig": "Mutiny on the Bounty",
+    "regista": "Lewis Milestone",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1963",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il buio oltre la siepe",
+    "titolo_orig": "To Kill a Mockingbird",
+    "regista": "Robert Mulligan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1963",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Capobanda",
+    "titolo_orig": "The Music Man",
+    "regista": "Morton DaCosta",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1963",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il giorno più lungo",
+    "titolo_orig": "The Longest Day",
+    "regista": "Ken Annakin",
+    "genere": "Azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1964",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Tom Jones",
+    "titolo_orig": "",
+    "regista": "Tony Richardson",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1964",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cleopatra",
+    "titolo_orig": "",
+    "regista": "Joseph L. Mankiewicz",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1964",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La conquista del West",
+    "titolo_orig": "How the West Was Won",
+    "regista": "Henry Hathaway",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1964",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I gigli del campo",
+    "titolo_orig": "Lilies of the Field",
+    "regista": "Ralph Nelson",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1964",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il ribelle dell'Anatolia",
+    "titolo_orig": "America, America",
+    "regista": "Elia Kazan",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1965",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "My Fair Lady",
+    "titolo_orig": "",
+    "regista": "George Cukor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1965",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Becket e il suo re",
+    "titolo_orig": "Becket",
+    "regista": "Peter Glenville",
+    "genere": "Epico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1965",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
+    "titolo_orig": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "regista": "Stanley Kubrick",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1965",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mary Poppins",
+    "titolo_orig": "",
+    "regista": "Robert Stevenson",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1965",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Zorba il greco",
+    "titolo_orig": "Alexis Zorbas",
+    "regista": "Michael Cacoyannis",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1966",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Tutti insieme appassionatamente",
+    "titolo_orig": "The Sound of Music",
+    "regista": "Robert Wise",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1966",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Darling",
+    "titolo_orig": "",
+    "regista": "John Schlesinger",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1966",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il dottor Živago",
+    "titolo_orig": "Doctor Zhivago",
+    "regista": "David Lean",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1966",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'incredibile Murray - L'uomo che disse no",
+    "titolo_orig": "A Thousand Clowns",
+    "regista": "Fred Coe",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1966",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La nave dei folli",
+    "titolo_orig": "Ship of Fools",
+    "regista": "Stanley Kramer",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1967",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Un uomo per tutte le stagioni",
+    "titolo_orig": "A Man for All Seasons",
+    "regista": "Fred Zinnemann",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1967",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Alfie",
+    "titolo_orig": "",
+    "regista": "Lewis Gilbert",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1967",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Arrivano i russi",
+    "titolo_orig": "The Russians Are Coming, the Russians Are Coming",
+    "regista": "Norman Jewison",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1967",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Chi ha paura di Virginia Woolf?",
+    "titolo_orig": "Who's Afraid of Virginia Woolf?",
+    "regista": "Mike Nichols",
+    "genere": "|Scena=",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1967",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quelli della San Pablo",
+    "titolo_orig": "The Sand Pebbles",
+    "regista": "Robert Wise",
+    "genere": "guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1968",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La calda notte dell'ispettore Tibbs",
+    "titolo_orig": "In the Heat of the Night",
+    "regista": "Norman Jewison",
+    "genere": "poliziesco",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1968",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il favoloso dottor Dolittle",
+    "titolo_orig": "Doctor Dolittle",
+    "regista": "Richard Fleischer",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1968",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gangster Story",
+    "titolo_orig": "Bonnie and Clyde",
+    "regista": "Arthur Penn",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1968",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il laureato",
+    "titolo_orig": "The Graduate",
+    "regista": "Mike Nichols",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1968",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Indovina chi viene a cena?",
+    "titolo_orig": "Guess Who's Coming to Dinner",
+    "regista": "Stanley Kramer",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1969",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Oliver!",
+    "titolo_orig": "Oliver",
+    "regista": "Carol Reed",
+    "genere": "Musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1969",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Funny Girl",
+    "titolo_orig": "",
+    "regista": "William Wyler",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1969",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il leone d'inverno",
+    "titolo_orig": "The Lion in Winter",
+    "regista": "Anthony Harvey",
+    "genere": "Epico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1969",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La prima volta di Jennifer",
+    "titolo_orig": "Rachel, Rachel",
+    "regista": "Paul Newman",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1969",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Romeo e Giulietta",
+    "titolo_orig": "Romeo and Juliet",
+    "regista": "Franco Zeffirelli",
+    "genere": "Tragedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1970",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Un uomo da marciapiede",
+    "titolo_orig": "Midnight Cowboy",
+    "regista": "John Schlesinger",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1970",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Anna dei mille giorni",
+    "titolo_orig": "Anne of the Thousand Days",
+    "regista": "Charles Jarrott",
+    "genere": "Storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1970",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Butch Cassidy",
+    "titolo_orig": "Butch Cassidy and the Sundance Kid",
+    "regista": "George Roy Hill",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1970",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Hello",
+    "titolo_orig": "",
+    "regista": "Gene Kelly",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1970",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Z - L'orgia del potere",
+    "titolo_orig": "Z",
+    "regista": "Costa-Gavras",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1971",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Patton",
+    "titolo_orig": "Patton",
+    "regista": "Franklin J. Schaffner",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1971",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Airport",
+    "titolo_orig": "",
+    "regista": "George Seaton",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1971",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cinque pezzi facili",
+    "titolo_orig": "Five Easy Pieces",
+    "regista": "Bob Rafelson",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1971",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Love Story",
+    "titolo_orig": "",
+    "regista": "Arthur Hiller",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1971",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "M*A*S*H",
+    "titolo_orig": "",
+    "regista": "Robert Altman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1972",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il braccio violento della legge",
+    "titolo_orig": "The French Connection",
+    "regista": "William Friedkin",
+    "genere": "Poliziesco",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1972",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Arancia meccanica",
+    "titolo_orig": "A Clockwork Orange",
+    "regista": "Stanley Kubrick",
+    "genere": "grottesco",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1972",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nicola e Alessandra",
+    "titolo_orig": "Nicholas and Alexandra",
+    "regista": "Franklin J. Schaffner",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1972",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'ultimo spettacolo",
+    "titolo_orig": "The Last Picture Show",
+    "regista": "Peter Bogdanovich",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1972",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il violinista sul tetto",
+    "titolo_orig": "Fiddler on the Roof",
+    "regista": "Norman Jewison",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1973",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il padrino",
+    "titolo_orig": "The Godfather",
+    "regista": "Francis Ford Coppola",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1973",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Karl e Kristina",
+    "titolo_orig": "Utvandrarna",
+    "regista": "Jan Troell",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1973",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Cabaret",
+    "titolo_orig": "",
+    "regista": "Bob Fosse",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1973",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sounder",
+    "titolo_orig": "",
+    "regista": "Martin Ritt",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1973",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un tranquillo weekend di paura",
+    "titolo_orig": "Deliverance",
+    "regista": "John Boorman",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1974",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La stangata",
+    "titolo_orig": "The Sting",
+    "regista": "George Roy Hill",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1974",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "American Graffiti",
+    "titolo_orig": "",
+    "regista": "George Lucas",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1974",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'esorcista",
+    "titolo_orig": "The Exorcist",
+    "regista": "William Friedkin",
+    "genere": "Horror",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1974",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sussurri e grida",
+    "titolo_orig": "Viskiningar Och Rop",
+    "regista": "Ingmar Bergman",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1974",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un tocco di classe",
+    "titolo_orig": "A Touch of Class",
+    "regista": "Melvin Frank",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1975",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il padrino - Parte II",
+    "titolo_orig": "The Godfather: Part II",
+    "regista": "Francis Ford Coppola",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1975",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Chinatown",
+    "titolo_orig": "",
+    "regista": "Roman Polański",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1975",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La conversazione",
+    "titolo_orig": "The Conversation",
+    "regista": "Francis Ford Coppola",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1975",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'inferno di cristallo",
+    "titolo_orig": "The Towering Inferno",
+    "regista": "Irwin Allen e John Guillermin",
+    "genere": "Catastrofico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1975",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lenny",
+    "titolo_orig": "",
+    "regista": "Bob Fosse",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1976",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Qualcuno volò sul nido del cuculo",
+    "titolo_orig": "One Flew Over the Cuckoo's Nest",
+    "regista": "Miloš Forman",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1976",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Barry Lyndon",
+    "titolo_orig": "",
+    "regista": "Stanley Kubrick",
+    "genere": "avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1976",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nashville",
+    "titolo_orig": "",
+    "regista": "Robert Altman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1976",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quel pomeriggio di un giorno da cani",
+    "titolo_orig": "Dog Day Afternoon",
+    "regista": "Sidney Lumet",
+    "genere": "Thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1976",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lo squalo",
+    "titolo_orig": "Jaws",
+    "regista": "Steven Spielberg",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1977",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Rocky",
+    "titolo_orig": "",
+    "regista": "John G. Avildsen",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1977",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Questa terra è la mia terra",
+    "titolo_orig": "Bound for Glory",
+    "regista": "Hal Ashby",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1977",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quinto potere",
+    "titolo_orig": "Network",
+    "regista": "Sidney Lumet",
+    "genere": "satirico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1977",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Taxi Driver",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": "Noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1977",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tutti gli uomini del presidente",
+    "titolo_orig": "All the President's Men",
+    "regista": "Alan J. Pakula",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1978",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Io e Annie",
+    "titolo_orig": "Annie Hall",
+    "regista": "Woody Allen",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1978",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Due vite",
+    "titolo_orig": "The Turning Point",
+    "regista": "Herbert Ross",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1978",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Giulia",
+    "titolo_orig": "Julia",
+    "regista": "Fred Zinnemann",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1978",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Goodbye amore mio!",
+    "titolo_orig": "The Goodbye Girl",
+    "regista": "Herbert Ross",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1978",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Guerre stellari",
+    "titolo_orig": "Star Wars",
+    "regista": "George Lucas",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1979",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il cacciatore",
+    "titolo_orig": "The Deer Hunter",
+    "regista": "Michael Cimino",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1979",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Fuga di mezzanotte",
+    "titolo_orig": "Midnight Express",
+    "regista": "Alan Parker",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1979",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il paradiso può attendere",
+    "titolo_orig": "Heaven Can Wait",
+    "regista": "Buck Henry e Warren Beatty",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1979",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tornando a casa",
+    "titolo_orig": "Coming Home",
+    "regista": "Hal Ashby",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1979",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Una donna tutta sola",
+    "titolo_orig": "An Unmarried Woman",
+    "regista": "Paul Mazursky",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1980",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Kramer contro Kramer",
+    "titolo_orig": "Kramer vs. Kramer",
+    "regista": "Robert Benton",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1980",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "All American Boys",
+    "titolo_orig": "Breaking Away",
+    "regista": "Peter Yates",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1980",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "All That Jazz - Lo spettacolo comincia",
+    "titolo_orig": "All That Jazz",
+    "regista": "Bob Fosse",
+    "genere": "Musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1980",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Apocalypse Now",
+    "titolo_orig": "",
+    "regista": "Francis Ford Coppola",
+    "genere": "guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1980",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Norma Rae",
+    "titolo_orig": "",
+    "regista": "Martin Ritt",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1981",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Gente comune",
+    "titolo_orig": "Ordinary People",
+    "regista": "Robert Redford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1981",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Elephant Man",
+    "titolo_orig": "",
+    "regista": "David Lynch",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1981",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La ragazza di Nashville",
+    "titolo_orig": "Coal Miner's Daughter",
+    "regista": "Michael Apted",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1981",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tess",
+    "titolo_orig": "",
+    "regista": "Roman Polański",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1981",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Toro scatenato",
+    "titolo_orig": "Raging Bull",
+    "regista": "Martin Scorsese",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1982",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Momenti di gloria",
+    "titolo_orig": "Chariots of Fire",
+    "regista": "Hugh Hudson",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1982",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Atlantic City",
+    "titolo_orig": "Atlantic City",
+    "regista": "Louis Malle",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1982",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I predatori dell'arca perduta",
+    "titolo_orig": "Raiders of the Lost Ark",
+    "regista": "Steven Spielberg",
+    "genere": "avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1982",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Reds",
+    "titolo_orig": "",
+    "regista": "Warren Beatty",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1982",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sul lago dorato",
+    "titolo_orig": "On Golden Pond",
+    "regista": "Mark Rydell",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1983",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Gandhi",
+    "titolo_orig": "",
+    "regista": "Richard Attenborough",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1983",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "E.T. l'extra-terrestre",
+    "titolo_orig": "E.T. the Extra-Terrestrial",
+    "regista": "Steven Spielberg",
+    "genere": "Fantascienza",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1983",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Missing - Scomparso",
+    "titolo_orig": "Missing",
+    "regista": "Costa-Gavras",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1983",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tootsie",
+    "titolo_orig": "",
+    "regista": "Sydney Pollack",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1983",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il verdetto",
+    "titolo_orig": "The Verdict",
+    "regista": "Sidney Lumet",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1984",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Voglia di tenerezza",
+    "titolo_orig": "Terms of Endearment",
+    "regista": "James L. Brooks",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1984",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il grande freddo",
+    "titolo_orig": "The Big Chill",
+    "regista": "Lawrence Kasdan",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1984",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il servo di scena",
+    "titolo_orig": "The Dresser",
+    "regista": "Peter Yates",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1984",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tender Mercies - Un tenero ringraziamento",
+    "titolo_orig": "Tender Mercies",
+    "regista": "Bruce Beresford",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1984",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Uomini veri",
+    "titolo_orig": "The Right Stuff",
+    "regista": "Philip Kaufman",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1985",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Amadeus",
+    "titolo_orig": "",
+    "regista": "Miloš Forman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1985",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Passaggio in India",
+    "titolo_orig": "A Passage to India",
+    "regista": "David Lean",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1985",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le stagioni del cuore",
+    "titolo_orig": "Places in the Heart",
+    "regista": "Robert Benton",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1985",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Storia di un soldato",
+    "titolo_orig": "A Soldier's Story",
+    "regista": "Norman Jewison",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1985",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Urla del silenzio",
+    "titolo_orig": "The Killing Fields",
+    "regista": "Roland Joffé",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1986",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La mia Africa",
+    "titolo_orig": "Out of Africa",
+    "regista": "Sydney Pollack",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1986",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il bacio della donna ragno",
+    "titolo_orig": "Kiss of the Spider Woman",
+    "regista": "Héctor Babenco",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1986",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il colore viola",
+    "titolo_orig": "The Color Purple",
+    "regista": "Steven Spielberg",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1986",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'onore dei Prizzi",
+    "titolo_orig": "Prizzi's Honor",
+    "regista": "John Huston",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1986",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Witness - Il testimone",
+    "titolo_orig": "Witness",
+    "regista": "Peter Weir",
+    "genere": "thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1987",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Platoon",
+    "titolo_orig": "",
+    "regista": "Oliver Stone",
+    "genere": "guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1987",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Camera con vista",
+    "titolo_orig": "A Room with a View",
+    "regista": "James Ivory",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1987",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Figli di un dio minore",
+    "titolo_orig": "Children of a Lesser God",
+    "regista": "Randa Haines",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1987",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Hannah e le sue sorelle",
+    "titolo_orig": "Hannah and Her Sisters",
+    "regista": "Woody Allen",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1987",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mission",
+    "titolo_orig": "The Mission",
+    "regista": "Roland Joffé",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1988",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "L'ultimo imperatore",
+    "titolo_orig": "The Last Emperor",
+    "regista": "Bernardo Bertolucci",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1988",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Anni '40",
+    "titolo_orig": "Hope and Glory",
+    "regista": "John Boorman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1988",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Attrazione fatale",
+    "titolo_orig": "Fatal Attraction",
+    "regista": "Adrian Lyne",
+    "genere": "thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1988",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Dentro la notizia - Broadcast News",
+    "titolo_orig": "Broadcast News",
+    "regista": "James L. Brooks",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1988",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Stregata dalla luna",
+    "titolo_orig": "Moonstruck",
+    "regista": "Norman Jewison",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1989",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Rain Man - L'uomo della pioggia",
+    "titolo_orig": "Rain Man",
+    "regista": "Barry Levinson",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1989",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Una donna in carriera",
+    "titolo_orig": "Working Girl",
+    "regista": "Mike Nichols",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1989",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mississippi Burning - Le radici dell'odio",
+    "titolo_orig": "Mississippi Burning",
+    "regista": "Alan Parker",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1989",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le relazioni pericolose",
+    "titolo_orig": "Dangerous Liaisons",
+    "regista": "Stephen Frears",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1989",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Turista per caso",
+    "titolo_orig": "The Accidental Tourist",
+    "regista": "Lawrence Kasdan",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1990",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "A spasso con Daisy",
+    "titolo_orig": "Driving Miss Daisy",
+    "regista": "Bruce Beresford",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1990",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'attimo fuggente",
+    "titolo_orig": "Dead Poets Society",
+    "regista": "Peter Weir",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1990",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il mio piede sinistro",
+    "titolo_orig": "My Left Foot",
+    "regista": "Jim Sheridan",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1990",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nato il quattro luglio",
+    "titolo_orig": "Born on the Fourth of July",
+    "regista": "Oliver Stone",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1990",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'uomo dei sogni",
+    "titolo_orig": "Field of Dreams",
+    "regista": "Phil Alden Robinson",
+    "genere": "Fantastico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1991",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Balla coi lupi",
+    "titolo_orig": "Dances with Wolves",
+    "regista": "Kevin Costner",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1991",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ghost - Fantasma",
+    "titolo_orig": "Ghost",
+    "regista": "Jerry Zucker",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1991",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il padrino - Parte III",
+    "titolo_orig": "The Godfather: Part III",
+    "regista": "Francis Ford Coppola",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1991",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quei bravi ragazzi",
+    "titolo_orig": "Goodfellas",
+    "regista": "Martin Scorsese",
+    "genere": "gangster",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1991",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Risvegli",
+    "titolo_orig": "Awakenings",
+    "regista": "Penny Marshall",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1992",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il silenzio degli innocenti",
+    "titolo_orig": "The Silence of the Lambs",
+    "regista": "Jonathan Demme",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1992",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La bella e la bestia",
+    "titolo_orig": "Beauty and the Beast",
+    "regista": "Gary Trousdale e Kirk Wise",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1992",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bugsy",
+    "titolo_orig": "",
+    "regista": "Barry Levinson",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1992",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "JFK - Un caso ancora aperto",
+    "titolo_orig": "JFK",
+    "regista": "Oliver Stone",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1992",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il principe delle maree",
+    "titolo_orig": "The Prince of Tides",
+    "regista": "Barbra Streisand",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1993",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Gli spietati",
+    "titolo_orig": "Unforgiven",
+    "regista": "Clint Eastwood",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1993",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Casa Howard",
+    "titolo_orig": "Howards End",
+    "regista": "James Ivory",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1993",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Codice d'onore",
+    "titolo_orig": "A Few Good Men",
+    "regista": "Rob Reiner",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1993",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La moglie del soldato",
+    "titolo_orig": "The Crying Game",
+    "regista": "Neil Jordan",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1993",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Scent of a Woman - Profumo di donna",
+    "titolo_orig": "Scent of a Woman",
+    "regista": "Martin Brest",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1994",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Schindler's List - La lista di Schindler",
+    "titolo_orig": "Schindler's List",
+    "regista": "Steven Spielberg",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1994",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il fuggitivo",
+    "titolo_orig": "The Fugitive",
+    "regista": "Andrew Davis",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1994",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lezioni di piano",
+    "titolo_orig": "The Piano",
+    "regista": "Jane Campion",
+    "genere": "Romantico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1994",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nel nome del padre",
+    "titolo_orig": "In the Name of the Father",
+    "regista": "Jim Sheridan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1994",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quel che resta del giorno",
+    "titolo_orig": "The Remains of the Day",
+    "regista": "James Ivory",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1995",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Forrest Gump",
+    "titolo_orig": "",
+    "regista": "Robert Zemeckis",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1995",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le ali della libertà",
+    "titolo_orig": "The Shawshank Redemption",
+    "regista": "Frank Darabont",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1995",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Pulp Fiction",
+    "titolo_orig": "",
+    "regista": "Quentin Tarantino",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1995",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quattro matrimoni e un funerale",
+    "titolo_orig": "Four Weddings and a Funeral",
+    "regista": "Mike Newell",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1995",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Quiz Show",
+    "titolo_orig": "",
+    "regista": "Robert Redford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1996",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Braveheart - Cuore impavido",
+    "titolo_orig": "Braveheart",
+    "regista": "Mel Gibson",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1996",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Apollo 13",
+    "titolo_orig": "",
+    "regista": "Ron Howard",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1996",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Babe - Maialino coraggioso",
+    "titolo_orig": "Babe",
+    "regista": "Chris Noonan",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1996",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il postino",
+    "titolo_orig": "",
+    "regista": "Michael Radford",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1996",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ragione e sentimento",
+    "titolo_orig": "Sense and Sensibility",
+    "regista": "Ang Lee",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1997",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il paziente inglese",
+    "titolo_orig": "The English Patient",
+    "regista": "Anthony Minghella",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1997",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Fargo",
+    "titolo_orig": "",
+    "regista": "Joel ed Ethan Coen",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1997",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Jerry Maguire",
+    "titolo_orig": "",
+    "regista": "Cameron Crowe",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1997",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Segreti e bugie",
+    "titolo_orig": "Secrets and Lies",
+    "regista": "Mike Leigh",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1997",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Shine",
+    "titolo_orig": "",
+    "regista": "Scott Hicks",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1998",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Titanic",
+    "titolo_orig": "",
+    "regista": "James Cameron",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1998",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Full Monty - Squattrinati organizzati",
+    "titolo_orig": "The Full Monty",
+    "regista": "Peter Cattaneo",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1998",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L.A. Confidential",
+    "titolo_orig": "",
+    "regista": "Curtis Hanson",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1998",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Qualcosa è cambiato",
+    "titolo_orig": "As Good as It Gets",
+    "regista": "James L. Brooks",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1998",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Will Hunting - Genio ribelle",
+    "titolo_orig": "Good Will Hunting",
+    "regista": "Gus Van Sant",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1999",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Shakespeare in Love",
+    "titolo_orig": "",
+    "regista": "John Madden",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1999",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Elizabeth",
+    "titolo_orig": "",
+    "regista": "Shekhar Kapur",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1999",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Salvate il soldato Ryan",
+    "titolo_orig": "Saving Private Ryan",
+    "regista": "Steven Spielberg",
+    "genere": "Guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "1999",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La sottile linea rossa",
+    "titolo_orig": "The Thin Red Line",
+    "regista": "Terrence Malick",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "1999",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La vita è bella",
+    "titolo_orig": "",
+    "regista": "Roberto Benigni",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2000",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "American Beauty",
+    "titolo_orig": "",
+    "regista": "Sam Mendes",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2000",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il miglio verde",
+    "titolo_orig": "The Green Mile",
+    "regista": "Frank Darabont",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2000",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Sixth Sense - Il sesto senso",
+    "titolo_orig": "The Sixth Sense",
+    "regista": "M. Night Shyamalan",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2000",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Insider - Dietro la verità",
+    "titolo_orig": "The Insider",
+    "regista": "Michael Mann",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2000",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le regole della casa del sidro",
+    "titolo_orig": "The Cider House Rules",
+    "regista": "Lasse Hallström",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2001",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il gladiatore",
+    "titolo_orig": "Gladiator",
+    "regista": "Ridley Scott",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2001",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Chocolat",
+    "titolo_orig": "",
+    "regista": "Lasse Hallström",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2001",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Erin Brockovich - Forte come la verità",
+    "titolo_orig": "Erin Brockovich",
+    "regista": "Steven Soderbergh",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2001",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La tigre e il dragone",
+    "titolo_orig": "Crouching Tiger, Hidden Dragon",
+    "regista": "Ang Lee",
+    "genere": "Azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2001",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Traffic",
+    "titolo_orig": "",
+    "regista": "Steven Soderbergh",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2002",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "A Beautiful Mind",
+    "titolo_orig": "",
+    "regista": "Ron Howard",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2002",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gosford Park",
+    "titolo_orig": "",
+    "regista": "Robert Altman",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2002",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il Signore degli Anelli - La Compagnia dell'Anello",
+    "titolo_orig": "The Lord of the Rings: The Fellowship of the Ring",
+    "regista": "Peter Jackson",
+    "genere": "Fantastico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2002",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "In the Bedroom",
+    "titolo_orig": "",
+    "regista": "Todd Field",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2002",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Moulin Rouge!",
+    "titolo_orig": "",
+    "regista": "Baz Luhrmann",
+    "genere": "musical",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2003",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Chicago",
+    "titolo_orig": "",
+    "regista": "Rob Marshall",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2003",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gangs of New York",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2003",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il pianista",
+    "titolo_orig": "The Pianist",
+    "regista": "Roman Polański",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2003",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il Signore degli Anelli - Le due torri",
+    "titolo_orig": "The Lord of the Rings: The Two Towers",
+    "regista": "Peter Jackson",
+    "genere": "Fantastico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2003",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Hours",
+    "titolo_orig": "",
+    "regista": "Stephen Daldry",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2004",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il Signore degli Anelli - Il ritorno del re",
+    "titolo_orig": "The Lord of the Rings: The Return of the King",
+    "regista": "Peter Jackson",
+    "genere": "Fantastico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2004",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lost in Translation - L'amore tradotto",
+    "titolo_orig": "Lost in Translation",
+    "regista": "Sofia Coppola",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2004",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Master & Commander - Sfida ai confini del mare",
+    "titolo_orig": "Master and Commander: The Far Side of the World",
+    "regista": "Peter Weir",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2004",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mystic River",
+    "titolo_orig": "",
+    "regista": "Clint Eastwood",
+    "genere": "giallo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2004",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Seabiscuit - Un mito senza tempo",
+    "titolo_orig": "Seabiscuit",
+    "regista": "Gary Ross",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2005",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Million Dollar Baby",
+    "titolo_orig": "",
+    "regista": "Clint Eastwood",
+    "genere": "Sportivo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2005",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Aviator",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2005",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Neverland - Un sogno per la vita",
+    "titolo_orig": "Finding Neverland",
+    "regista": "Marc Forster",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2005",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Ray",
+    "titolo_orig": "",
+    "regista": "Taylor Hackford",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2005",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sideways - In viaggio con Jack",
+    "titolo_orig": "Sideways",
+    "regista": "Alexander Payne",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2006",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Crash - Contatto fisico",
+    "titolo_orig": "Crash",
+    "regista": "Paul Haggis",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2006",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Good Night",
+    "titolo_orig": "",
+    "regista": "George Clooney",
+    "genere": "Ninna nanna",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2006",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Munich",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2006",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I segreti di Brokeback Mountain",
+    "titolo_orig": "Brokeback Mountain",
+    "regista": "Ang Lee",
+    "genere": "romantico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2006",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Truman Capote - A sangue freddo",
+    "titolo_orig": "Capote",
+    "regista": "Bennett Miller",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2007",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "The Departed - Il bene e il male",
+    "titolo_orig": "The Departed",
+    "regista": "Martin Scorsese",
+    "genere": "Poliziesco",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2007",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Babel",
+    "titolo_orig": "",
+    "regista": "Alejandro González Iñárritu",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2007",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lettere da Iwo Jima",
+    "titolo_orig": "Letters from Iwo Jima",
+    "regista": "Clint Eastwood",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2007",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Little Miss Sunshine",
+    "titolo_orig": "",
+    "regista": "Jonathan Dayton e Valerie Faris",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2007",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Queen - La regina",
+    "titolo_orig": "The Queen",
+    "regista": "Stephen Frears",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2008",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Non è un paese per vecchi",
+    "titolo_orig": "No Country for Old Men",
+    "regista": "Joel ed Ethan Coen",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2008",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Espiazione",
+    "titolo_orig": "Atonement",
+    "regista": "Joe Wright",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2008",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Juno",
+    "titolo_orig": "",
+    "regista": "Jason Reitman",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2008",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Michael Clayton",
+    "titolo_orig": "",
+    "regista": "Tony Gilroy",
+    "genere": "Thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2008",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il petroliere",
+    "titolo_orig": "There Will Be Blood",
+    "regista": "Paul Thomas Anderson",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2009",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "The Millionaire",
+    "titolo_orig": "Slumdog Millionaire",
+    "regista": "Danny Boyle",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2009",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il curioso caso di Benjamin Button",
+    "titolo_orig": "The Curious Case of Benjamin Button",
+    "regista": "David Fincher",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2009",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Frost/Nixon - Il duello",
+    "titolo_orig": "Frost/Nixon",
+    "regista": "Ron Howard",
+    "genere": "Storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2009",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Milk",
+    "titolo_orig": "",
+    "regista": "Gus Van Sant",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2009",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Reader - A voce alta",
+    "titolo_orig": "The Reader",
+    "regista": "Stephen Daldry",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "The Hurt Locker",
+    "titolo_orig": "",
+    "regista": "Kathryn Bigelow",
+    "genere": "guerra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Avatar",
+    "titolo_orig": "",
+    "regista": "James Cameron",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bastardi senza gloria",
+    "titolo_orig": "Inglourious Basterds",
+    "regista": "Quentin Tarantino",
+    "genere": "avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Blind Side",
+    "titolo_orig": "",
+    "regista": "John Lee Hancock",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "District 9",
+    "titolo_orig": "",
+    "regista": "Neill Blomkamp",
+    "genere": "Fantascienza",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "An Education",
+    "titolo_orig": "",
+    "regista": "Lone Scherfig",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Precious",
+    "titolo_orig": "",
+    "regista": "Lee Daniels",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "A Serious Man",
+    "titolo_orig": "",
+    "regista": "Joel ed Ethan Coen",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tra le nuvole",
+    "titolo_orig": "Up in the Air",
+    "regista": "Jason Reitman",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2010",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Up",
+    "titolo_orig": "",
+    "regista": "Pete Docter e Bob Peterson",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il discorso del re",
+    "titolo_orig": "The King's Speech",
+    "regista": "Tom Hooper",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il cigno nero",
+    "titolo_orig": "Black Swan",
+    "regista": "Darren Aronofsky",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Inception",
+    "titolo_orig": "",
+    "regista": "Christopher Nolan",
+    "genere": "azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Fighter",
+    "titolo_orig": "",
+    "regista": "David O. Russell",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Social Network",
+    "titolo_orig": "",
+    "regista": "David Fincher",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il Grinta",
+    "titolo_orig": "True Grit",
+    "regista": "Joel ed Ethan Coen",
+    "genere": "western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "127 ore",
+    "titolo_orig": "127 Hours",
+    "regista": "Danny Boyle",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I ragazzi stanno bene",
+    "titolo_orig": "The Kids Are All Right",
+    "regista": "Lisa Cholodenko",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Toy Story 3 - La grande fuga",
+    "titolo_orig": "Toy Story 3",
+    "regista": "Lee Unkrich",
+    "genere": "animazione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2011",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Un gelido inverno",
+    "titolo_orig": "Winter's Bone",
+    "regista": "Debra Granik",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "The Artist",
+    "titolo_orig": "",
+    "regista": "Michel Hazanavicius",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Hugo Cabret",
+    "titolo_orig": "Hugo",
+    "regista": "Martin Scorsese",
+    "genere": "storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Midnight in Paris",
+    "titolo_orig": "",
+    "regista": "Woody Allen",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Molto forte",
+    "titolo_orig": "Extremely Loud and Incredibly Close",
+    "regista": "Stephen Daldry",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Paradiso amaro",
+    "titolo_orig": "The Descendants",
+    "regista": "Alexander Payne",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Tree of Life",
+    "titolo_orig": "",
+    "regista": "Terrence Malick",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'arte di vincere",
+    "titolo_orig": "Moneyball",
+    "regista": "Bennett Miller",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Help",
+    "titolo_orig": "",
+    "regista": "Tate Taylor",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2012",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "War Horse",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Argo",
+    "titolo_orig": "",
+    "regista": "Ben Affleck",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Django Unchained",
+    "titolo_orig": "",
+    "regista": "Quentin Tarantino",
+    "genere": "Western",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Vita di Pi",
+    "titolo_orig": "Life of Pi",
+    "regista": "Ang Lee",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lincoln",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Zero Dark Thirty",
+    "titolo_orig": "",
+    "regista": "Kathryn Bigelow",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il lato positivo - Silver Linings Playbook",
+    "titolo_orig": "Silver Linings Playbook",
+    "regista": "David O. Russell",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Les Misérables",
+    "titolo_orig": "",
+    "regista": "Tom Hooper",
+    "genere": "Romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Amour",
+    "titolo_orig": "",
+    "regista": "Michael Haneke",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2013",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Re della terra selvaggia",
+    "titolo_orig": "Beasts of the Southern Wild",
+    "regista": "Benh Zeitlin",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "12 anni schiavo",
+    "titolo_orig": "12 Years a Slave",
+    "regista": "Steve McQueen",
+    "genere": "Storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Wolf of Wall Street",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Dallas Buyers Club",
+    "titolo_orig": "",
+    "regista": "Jean-Marc Vallée",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "American Hustle - L'apparenza inganna",
+    "titolo_orig": "American Hustle",
+    "regista": "David O. Russell",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Philomena",
+    "titolo_orig": "",
+    "regista": "Stephen Frears",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gravity",
+    "titolo_orig": "",
+    "regista": "Alfonso Cuarón",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lei",
+    "titolo_orig": "Her",
+    "regista": "Spike Jonze",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Nebraska",
+    "titolo_orig": "",
+    "regista": "Alexander Payne",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2014",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Captain Phillips - Attacco in mare aperto",
+    "titolo_orig": "Captain Phillips",
+    "regista": "Paul Greengrass",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Birdman",
+    "titolo_orig": "",
+    "regista": "Alejandro González Iñárritu",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "American Sniper",
+    "titolo_orig": "",
+    "regista": "Clint Eastwood",
+    "genere": "azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Boyhood",
+    "titolo_orig": "",
+    "regista": "Richard Linklater",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Grand Budapest Hotel",
+    "titolo_orig": "The Grand Budapest Hotel",
+    "regista": "Wes Anderson",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Imitation Game",
+    "titolo_orig": "",
+    "regista": "Morten Tyldum",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Selma - La strada per la libertà",
+    "titolo_orig": "Selma",
+    "regista": "Ava DuVernay",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La teoria del tutto",
+    "titolo_orig": "The Theory of Everything",
+    "regista": "James Marsh",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2015",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Whiplash",
+    "titolo_orig": "",
+    "regista": "Damien Chazelle",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Il caso Spotlight",
+    "titolo_orig": "Spotlight",
+    "regista": "Tom McCarthy",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Revenant - Redivivo",
+    "titolo_orig": "The Revenant",
+    "regista": "Alejandro González Iñárritu",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mad Max: Fury Road",
+    "titolo_orig": "",
+    "regista": "George Miller",
+    "genere": "Azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sopravvissuto - The Martian",
+    "titolo_orig": "The Martian",
+    "regista": "Ridley Scott",
+    "genere": "Fantascienza",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il ponte delle spie",
+    "titolo_orig": "Bridge of Spies",
+    "regista": "Steven Spielberg",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Room",
+    "titolo_orig": "",
+    "regista": "Lenny Abrahamson",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La grande scommessa",
+    "titolo_orig": "The Big Short",
+    "regista": "Adam McKay",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2016",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Brooklyn",
+    "titolo_orig": "",
+    "regista": "John Crowley",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Moonlight",
+    "titolo_orig": "",
+    "regista": "Barry Jenkins",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Arrival",
+    "titolo_orig": "",
+    "regista": "Denis Villeneuve",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Barriere",
+    "titolo_orig": "Fences",
+    "regista": "Denzel Washington",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La battaglia di Hacksaw Ridge",
+    "titolo_orig": "Hacksaw Ridge",
+    "regista": "Mel Gibson",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Hell or High Water",
+    "titolo_orig": "",
+    "regista": "David Mackenzie",
+    "genere": "Azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il diritto di contare",
+    "titolo_orig": "Hidden Figures",
+    "regista": "Theodore Melfi",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La La Land",
+    "titolo_orig": "",
+    "regista": "Damien Chazelle",
+    "genere": "musicale",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lion - La strada verso casa",
+    "titolo_orig": "Lion",
+    "regista": "Garth Davis",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2017",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Manchester by the Sea",
+    "titolo_orig": "",
+    "regista": "Kenneth Lonergan",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "La forma dell'acqua - The Shape of Water",
+    "titolo_orig": "The Shape of Water",
+    "regista": "Guillermo del Toro",
+    "genere": "Fantastico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Chiamami col tuo nome",
+    "titolo_orig": "Call Me by Your Name",
+    "regista": "Luca Guadagnino",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Dunkirk",
+    "titolo_orig": "",
+    "regista": "Christopher Nolan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il filo nascosto",
+    "titolo_orig": "Phantom Thread",
+    "regista": "Paul Thomas Anderson",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Lady Bird",
+    "titolo_orig": "",
+    "regista": "Greta Gerwig",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'ora più buia",
+    "titolo_orig": "Darkest Hour",
+    "regista": "Joe Wright",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Post",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Scappa - Get Out",
+    "titolo_orig": "Get Out",
+    "regista": "Jordan Peele",
+    "genere": "Orrore",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2018",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tre manifesti a Ebbing",
+    "titolo_orig": "Three Billboards Outside Ebbing, Missouri",
+    "regista": "Martin McDonagh",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Green Book",
+    "titolo_orig": "",
+    "regista": "Peter Farrelly",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Black Panther",
+    "titolo_orig": "",
+    "regista": "Ryan Coogler",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "BlacKkKlansman",
+    "titolo_orig": "",
+    "regista": "Spike Lee",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bohemian Rhapsody",
+    "titolo_orig": "",
+    "regista": "Bryan Singer",
+    "genere": "Rock progressivo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La favorita",
+    "titolo_orig": "The Favourite",
+    "regista": "Yorgos Lanthimos",
+    "genere": "grand opéra",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Roma",
+    "titolo_orig": "",
+    "regista": "Alfonso Cuarón",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "A Star Is Born",
+    "titolo_orig": "",
+    "regista": "Bradley Cooper",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2019",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Vice - L'uomo nell'ombra",
+    "titolo_orig": "Vice",
+    "regista": "Adam McKay",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Parasite",
+    "titolo_orig": "Gisaengchung",
+    "regista": "Bong Joon-ho",
+    "genere": "Thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "1917",
+    "titolo_orig": "",
+    "regista": "Sam Mendes",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "C'era una volta a... Hollywood",
+    "titolo_orig": "Once Upon a Time... in Hollywood",
+    "regista": "Quentin Tarantino",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Irishman",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Jojo Rabbit",
+    "titolo_orig": "",
+    "regista": "Taika Waititi",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Joker",
+    "titolo_orig": "",
+    "regista": "Todd Phillips",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Le Mans '66 - La grande sfida",
+    "titolo_orig": "Ford v Ferrari",
+    "regista": "James Mangold",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Piccole donne",
+    "titolo_orig": "Little Women",
+    "regista": "Greta Gerwig",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2020",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Storia di un matrimonio",
+    "titolo_orig": "Marriage Story",
+    "regista": "Noah Baumbach",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Nomadland",
+    "titolo_orig": "",
+    "regista": "Chloé Zhao",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il processo ai Chicago 7",
+    "titolo_orig": "The Trial of the Chicago 7",
+    "regista": "Aaron Sorkin",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Una donna promettente",
+    "titolo_orig": "Promising Young Woman",
+    "regista": "Emerald Fennell",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Judas and the Black Messiah",
+    "titolo_orig": "",
+    "regista": "Shaka King",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Mank",
+    "titolo_orig": "",
+    "regista": "David Fincher",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Father - Nulla è come sembra",
+    "titolo_orig": "The Father",
+    "regista": "Florian Zeller",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Minari",
+    "titolo_orig": "",
+    "regista": "Lee Isaac Chung",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2021",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sound of Metal",
+    "titolo_orig": "",
+    "regista": "Darius Marder",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "CODA - I segni del cuore",
+    "titolo_orig": "CODA",
+    "regista": "Sian Heder",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Belfast",
+    "titolo_orig": "",
+    "regista": "Kenneth Branagh",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Don't Look Up",
+    "titolo_orig": "",
+    "regista": "Adam McKay",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Drive My Car",
+    "titolo_orig": "Doraibu mai kā",
+    "regista": "Ryūsuke Hamaguchi",
+    "genere": "Merseybeat",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Dune",
+    "titolo_orig": "Dune: Part One",
+    "regista": "Denis Villeneuve",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Il potere del cane",
+    "titolo_orig": "The Power of the Dog",
+    "regista": "Jane Campion",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Licorice Pizza",
+    "titolo_orig": "",
+    "regista": "Paul Thomas Anderson",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La fiera delle illusioni - Nightmare Alley",
+    "titolo_orig": "Nightmare Alley",
+    "regista": "Guillermo del Toro",
+    "genere": "Noir",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Una famiglia vincente - King Richard",
+    "titolo_orig": "King Richard",
+    "regista": "Reinaldo Marcus Green",
+    "genere": "Biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2022",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "West Side Story",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": "Musical",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Everything Everywhere All at Once",
+    "titolo_orig": "",
+    "regista": "Daniel Kwan e Daniel Scheinert",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Niente di nuovo sul fronte occidentale",
+    "titolo_orig": "Im Westen nichts Neues",
+    "regista": "Edward Berger",
+    "genere": "Romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Avatar - La via dell'acqua",
+    "titolo_orig": "Avatar: The Way of Water",
+    "regista": "James Cameron",
+    "genere": "fantascienza",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Gli spiriti dell'isola",
+    "titolo_orig": "The Banshees of Inisherin",
+    "regista": "Martin McDonagh",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Elvis",
+    "titolo_orig": "",
+    "regista": "Baz Luhrmann",
+    "genere": "Rock and roll",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Fabelmans",
+    "titolo_orig": "",
+    "regista": "Steven Spielberg",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Tár",
+    "titolo_orig": "",
+    "regista": "Todd Field",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Top Gun: Maverick",
+    "titolo_orig": "",
+    "regista": "Joseph Kosinski",
+    "genere": "azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Triangle of Sadness",
+    "titolo_orig": "",
+    "regista": "Ruben Östlund",
+    "genere": "satirico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2023",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Women Talking - Il diritto di scegliere",
+    "titolo_orig": "Women Talking",
+    "regista": "Sarah Polley",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Oppenheimer",
+    "titolo_orig": "",
+    "regista": "Christopher Nolan",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "American Fiction",
+    "titolo_orig": "",
+    "regista": "Cord Jefferson",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Anatomia di una caduta",
+    "titolo_orig": "Anatomie d'une chute",
+    "regista": "Justine Triet",
+    "genere": "Thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Barbie",
+    "titolo_orig": "",
+    "regista": "Greta Gerwig",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Holdovers - Lezioni di vita",
+    "titolo_orig": "The Holdovers",
+    "regista": "Alexander Payne",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Killers of the Flower Moon",
+    "titolo_orig": "",
+    "regista": "Martin Scorsese",
+    "genere": "Thriller",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Maestro",
+    "titolo_orig": "",
+    "regista": "Bradley Cooper",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Past Lives",
+    "titolo_orig": "",
+    "regista": "Celine Song",
+    "genere": "Heavy metal",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Povere creature!",
+    "titolo_orig": "Poor Things",
+    "regista": "Yorgos Lanthimos",
+    "genere": "Commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2024",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "La zona d'interesse",
+    "titolo_orig": "The zone of interest",
+    "regista": "Jonathan Glazer",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Anora",
+    "titolo_orig": "",
+    "regista": "Sean Baker",
+    "genere": "commedia",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Brutalist",
+    "titolo_orig": "",
+    "regista": "Brady Corbet",
+    "genere": "epico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "A Complete Unknown",
+    "titolo_orig": "",
+    "regista": "James Mangold",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Conclave",
+    "titolo_orig": "",
+    "regista": "Edward Berger",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Dune - Parte due",
+    "titolo_orig": "Dune: Part Two",
+    "regista": "Denis Villeneuve",
+    "genere": "Avventura",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Emilia Pérez",
+    "titolo_orig": "",
+    "regista": "Jacques Audiard",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Io sono ancora qui",
+    "titolo_orig": "Ainda Estou Aqui",
+    "regista": "Walter Salles",
+    "genere": "Storico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I ragazzi della Nickel",
+    "titolo_orig": "Nickel Boys",
+    "regista": "RaMell Ross",
+    "genere": "romanzo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "The Substance",
+    "titolo_orig": "",
+    "regista": "Coralie Fargeat",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2025",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Wicked",
+    "titolo_orig": "Wicked: Part I",
+    "regista": "Jon M. Chu",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "True",
+    "titolo_it": "Una battaglia dopo l'altra",
+    "titolo_orig": "One Battle After Another",
+    "regista": "Paul Thomas Anderson",
+    "genere": "drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Bugonia",
+    "titolo_orig": "",
+    "regista": "Yorgos Lanthimos",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "F1 - Il film",
+    "titolo_orig": "F1",
+    "regista": "Joseph Kosinski",
+    "genere": "azione",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Frankenstein",
+    "titolo_orig": "",
+    "regista": "Guillermo del Toro",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Hamnet - Nel nome del figlio",
+    "titolo_orig": "Hamnet",
+    "regista": "Chloé Zhao",
+    "genere": "biografico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Marty Supreme",
+    "titolo_orig": "",
+    "regista": "Josh Safdie",
+    "genere": "sportivo",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "L'agente segreto",
+    "titolo_orig": "O agente secreto",
+    "regista": "Kleber Mendonça Filho",
+    "genere": null,
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Sentimental Value",
+    "titolo_orig": "Affeksjonsverdi",
+    "regista": "Joachim Trier",
+    "genere": "Drammatico",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "I peccatori",
+    "titolo_orig": "Sinners",
+    "regista": "Ryan Coogler",
+    "genere": "horror",
+    "casa_produzione": null
+  },
+  {
+    "anno": "2026",
+    "edizione": "",
+    "vincitore": "False",
+    "titolo_it": "Train Dreams",
+    "titolo_orig": "",
+    "regista": "Clint Bentley",
+    "genere": "drammatico",
+    "casa_produzione": null
+  }
+]
