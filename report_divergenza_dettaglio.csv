@@ -1,0 +1,622 @@
+id_film,esito_genere,esito_produzione,wiki_genere,wiki_casa_produzione,llm_genere,llm_casa_produzione
+Ali_1929,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Bellico,Paramount Famous Lasky Corporation
+The Racket_1929,DISCORDANTE,NON_CONFRONTABILE,drammatico,,Gangster,Caddo Company
+Settimo cielo_1929,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico romantico,Fox Film Corporation
+La canzone di Broadway_1930,CONCORDE,NON_CONFRONTABILE,musicale,,Musicale,Metro-Goldwyn-Mayer
+Alibi_1930,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Gangster,Feature Productions
+Hollywood che canta_1930,CONCORDE,NON_CONFRONTABILE,Musicale,,Musicale (rivista),Metro-Goldwyn-Mayer
+Notte di tradimento_1930,DISCORDANTE,NON_CONFRONTABILE,Avventura,,Western,Fox Film Corporation
+Lo zar folle_1930,PARZIALE,NON_CONFRONTABILE,Drammatico,,Dramma storico,Paramount Pictures
+All'ovest niente di nuovo_1930,CONCORDE,NON_CONFRONTABILE,Guerra,,Bellico,Universal Pictures
+Carcere_1930,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma carcerario,Metro-Goldwyn-Mayer
+Disraeli_1930,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma biografico,Warner Bros.
+La divorziata_1930,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma romantico,Metro-Goldwyn-Mayer
+Il principe consorte_1930,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia musicale,Paramount Pictures
+I pionieri del West_1931,CONCORDE,NON_CONFRONTABILE,western,,Western,RKO Radio Pictures
+The Front Page_1931,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia,Caddo Company
+Ripudiata_1931,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Fox Film Corporation
+Skippy_1931,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia,Paramount Pictures
+Trader Horn_1931,CONCORDE,NON_CONFRONTABILE,avventura,,Avventura,Metro-Goldwyn-Mayer
+Grand Hotel_1932,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Metro-Goldwyn-Mayer
+L'allegro tenente_1932,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia musicale,Paramount Pictures
+Bad Girl_1932,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Fox Film Corporation
+Il campione_1932,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Metro-Goldwyn-Mayer
+Five Star Final_1932,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,First National Pictures
+Un'ora d'amore_1932,PARZIALE,NON_CONFRONTABILE,commedia,,Commedia musicale,Paramount Pictures
+Un popolo muore_1932,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,Samuel Goldwyn Productions
+Shanghai Express_1932,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico d'avventura,Paramount Pictures
+Cavalcata_1934,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma epico,Fox Film Corporation
+Addio alle armi_1934,DISCORDANTE,NON_CONFRONTABILE,romanzo,,Dramma bellico romantico,Paramount Pictures
+Catene_1934,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma romantico,Metro-Goldwyn-Mayer
+Io sono un evaso_1934,PARZIALE,NON_CONFRONTABILE,Drammatico,,Dramma carcerario,Warner Bros.
+Lady Lou_1934,CONCORDE,NON_CONFRONTABILE,Commedia,,Commedia,Paramount Pictures
+Montagne russe_1934,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia,Fox Film Corporation
+Piccole donne_1934,DISCORDANTE,NON_CONFRONTABILE,romanzo,,Drammatico,RKO Radio Pictures
+Quarantaduesima strada_1934,DISCORDANTE,NON_CONFRONTABILE,commedia,,Musicale,Warner Bros.
+Le sei mogli di Enrico VIII_1934,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Dramma storico,London Films
+Signora per un giorno_1934,CONCORDE,NON_CONFRONTABILE,commedia,,Commedia,Columbia Pictures
+Accadde una notte_1935,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia romantica,Columbia Pictures
+Angeli del dolore_1935,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,Fox Film Corporation
+La casa dei Rothschild_1935,PARZIALE,NON_CONFRONTABILE,Drammatico,,Dramma biografico,20th Century Pictures
+Cerco il mio amore_1935,DISCORDANTE,NON_CONFRONTABILE,commedia,,Musicale romantico,Warner Bros.
+Cleopatra_1935,NON_CONFRONTABILE,NON_CONFRONTABILE,,,storico,Paramount Pictures
+La famiglia Barrett_1935,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Metro-Goldwyn-Mayer
+Marinai all'erta_1935,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia musicale,Metro-Goldwyn-Mayer
+Una notte d'amore_1935,DISCORDANTE,NON_CONFRONTABILE,musicale,,commedia romantica,Columbia Pictures
+Passeggiata d'amore_1935,DISCORDANTE,NON_CONFRONTABILE,Musicale,,commedia romantica,Universal Pictures
+Lo specchio della vita_1935,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+L'uomo ombra_1935,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia gialla,Metro-Goldwyn-Mayer
+Viva Villa!_1935,DISCORDANTE,NON_CONFRONTABILE,drammatico,,western biografico,Metro-Goldwyn-Mayer
+La tragedia del Bounty_1936,CONCORDE,NON_CONFRONTABILE,avventura,,avventura,Metro-Goldwyn-Mayer
+Capitan Blood_1936,PARZIALE,NON_CONFRONTABILE,Azione,,avventura,Warner Bros.
+Cappello a cilindro_1936,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical,RKO Radio Pictures
+Davide Copperfield_1936,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Follie di Broadway 1936_1936,DISCORDANTE,NON_CONFRONTABILE,Commedia,,musical,20th Century Fox
+I lancieri del Bengala_1936,CONCORDE,NON_CONFRONTABILE,Avventura,,avventura,Universal Pictures
+Il maggiordomo_1936,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Metro-Goldwyn-Mayer
+Primo amore_1936,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Il sergente di ferro_1936,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico bellico,RKO Radio Pictures
+Sogno di una notte di mezza estate_1936,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,Warner Bros.
+Terra senza donne_1936,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+Il traditore_1936,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Il paradiso delle fanciulle_1937,DISCORDANTE,NON_CONFRONTABILE,Biografico,,fantastico,Metro-Goldwyn-Mayer
+Avorio nero_1937,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,avventura,Metro-Goldwyn-Mayer
+La donna del giorno_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Metro-Goldwyn-Mayer
+Le due città_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico storico,Metro-Goldwyn-Mayer
+È arrivata la felicità_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia musicale,Metro-Goldwyn-Mayer
+Giulietta e Romeo_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico romantico,Metro-Goldwyn-Mayer
+Infedeltà_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Warner Bros.
+San Francisco_1937,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico catastrofico,Metro-Goldwyn-Mayer
+Tre ragazze in gamba_1937,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Metro-Goldwyn-Mayer
+La vita del dottor Pasteur_1937,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,biografico,Warner Bros.
+Emilio Zola_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Warner Bros.
+La buona terra_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Capitani coraggiosi_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,avventura,Metro-Goldwyn-Mayer
+Cento uomini e una ragazza_1938,PARZIALE,NON_CONFRONTABILE,musicale,,commedia musicale,Universal Pictures
+È nata una stella_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico musicale,Selznick International Pictures
+L'incendio di Chicago_1938,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico catastrofico,20th Century Fox
+Orizzonte perduto_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantastico avventura,Columbia Pictures
+L'orribile verità_1938,DISCORDANTE,NON_CONFRONTABILE,Romantico,,commedia,Columbia Pictures
+Palcoscenico_1938,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Strada sbarrata_1938,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+L'eterna illusione_1939,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Metro-Goldwyn-Mayer
+Arditi dell'aria_1939,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Warner Bros.
+La città dei ragazzi_1939,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,Metro-Goldwyn-Mayer
+La cittadella_1939,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Figlia del vento_1939,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Metro-Goldwyn-Mayer
+La grande illusione_1939,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Réalisations d'Art Cinématographique
+La grande strada bianca_1939,DISCORDANTE,NON_CONFRONTABILE,Musical,,drammatico,Metro-Goldwyn-Mayer
+Pigmalione_1939,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Metro-Goldwyn-Mayer
+Quattro figlie_1939,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Warner Bros.
+La leggenda di Robin Hood_1939,CONCORDE,NON_CONFRONTABILE,Avventura,,avventura,Warner Bros.
+Via col vento_1940,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Selznick International Pictures
+Addio_1940,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Un grande amore_1940,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Il mago di Oz_1940,DISCORDANTE,NON_CONFRONTABILE,romanzo,,fantastico,Metro-Goldwyn-Mayer
+Mr. Smith va a Washington_1940,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Columbia Pictures
+Ninotchka_1940,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Metro-Goldwyn-Mayer
+Ombre rosse_1940,DISCORDANTE,NON_CONFRONTABILE,Avventura,,western,United Artists
+Tramonto_1940,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Uomini e topi_1940,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Hal Roach Studios
+La voce nella tempesta_1940,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,United Artists
+Rebecca - La prima moglie_1941,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Selznick International Pictures
+Furore_1941,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Twentieth Century-Fox
+Il grande dittatore_1941,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Charles Chaplin Productions
+Kitty Foyle_1941,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,RKO Radio Pictures
+La nostra città_1941,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Sol Lesser Productions
+Ombre malesi_1941,PARZIALE,NON_CONFRONTABILE,Noir,,giallo,Warner Bros.
+Paradiso proibito_1941,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Alexander Korda Films
+Il prigioniero di Amsterdam_1941,PARZIALE,NON_CONFRONTABILE,spionaggio,,thriller,Metro-Goldwyn-Mayer
+Scandalo a Filadelfia_1941,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Metro-Goldwyn-Mayer
+Lungo viaggio di ritorno_1941,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Metro-Goldwyn-Mayer
+Com'era verde la mia valle_1942,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Twentieth Century-Fox
+Fiori nella polvere_1942,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Metro-Goldwyn-Mayer
+L'inafferrabile signor Jordan_1942,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,Metro-Goldwyn-Mayer
+Il mistero del falco_1942,PARZIALE,NON_CONFRONTABILE,Noir,,giallo,Warner Bros.
+Piccole volpi_1942,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Samuel Goldwyn Productions
+Un piede in paradiso_1942,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Paramount Pictures
+La porta d'oro_1942,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Universal Pictures
+Quarto potere_1942,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Mercury Productions
+Il sergente York_1942,DISCORDANTE,NON_CONFRONTABILE,Guerra,,drammatico,Warner Bros.
+Il sospetto_1942,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,RKO Radio Pictures
+La signora Miniver_1943,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Metro-Goldwyn-Mayer
+Delitti senza castigo_1943,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+Un evaso ha bussato alla porta_1943,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Warner Bros.
+L'idolo delle folle_1943,PARZIALE,NON_CONFRONTABILE,Biografico,,drammatico,Warner Bros.
+Gli invasori_1943,NON_CONFRONTABILE,NON_CONFRONTABILE,,,guerra,Warner Bros.
+L'isola della gloria_1943,PARZIALE,NON_CONFRONTABILE,Guerra,,drammatico,Warner Bros.
+L'orgoglio degli Amberson_1943,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,RKO Radio Pictures
+The Pied Piper_1943,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,20th Century Fox
+Prigionieri del passato_1943,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Warner Bros.
+Ribalta di gloria_1943,DISCORDANTE,NON_CONFRONTABILE,biografico,,musicale,Warner Bros.
+Casablanca_1944,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Warner Bros.
+Alba fatale_1944,CONCORDE,NON_CONFRONTABILE,Western,,western,Walter Wanger Productions
+Bernadette_1944,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,20th Century Fox
+Il cielo può attendere_1944,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,20th Century Fox
+La commedia umana_1944,PARZIALE,NON_CONFRONTABILE,"romanzi, novelle, racconti, saggi",,drammatico,Metro-Goldwyn-Mayer
+Eroi del mare_1944,CONCORDE,NON_CONFRONTABILE,Guerra,,guerra,Warner Bros.
+Madame Curie_1944,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Metro-Goldwyn-Mayer
+Molta brigata vita beata_1944,DISCORDANTE,NON_CONFRONTABILE,commedia,,musicale,Metro-Goldwyn-Mayer
+Per chi suona la campana_1944,DISCORDANTE,NON_CONFRONTABILE,Romanzo,,guerra,Paramount Pictures
+Quando il giorno verrà_1944,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Warner Bros.
+La mia via_1945,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,20th Century Fox
+Angoscia_1945,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Paramount Pictures
+Da quando te ne andasti_1945,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Metro-Goldwyn-Mayer
+La fiamma del peccato_1945,CONCORDE,NON_CONFRONTABILE,noir,,noir,Paramount Pictures
+Wilson_1945,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,20th Century Fox
+Giorni perduti_1946,PARZIALE,NON_CONFRONTABILE,noir,,drammatico,Paramount Pictures
+Le campane di Santa Maria_1946,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,RKO Radio Pictures
+Due marinai e una ragazza_1946,PARZIALE,NON_CONFRONTABILE,comico,,musicale,Metro-Goldwyn-Mayer
+Io ti salverò_1946,DISCORDANTE,NON_CONFRONTABILE,Giallo,,drammatico,Selznick International Pictures
+Il romanzo di Mildred_1946,PARZIALE,NON_CONFRONTABILE,Drammatico,,noir,Warner Bros.
+I migliori anni della nostra vita_1947,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,RKO Radio Pictures
+Il cucciolo_1947,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Metro-Goldwyn-Mayer
+Enrico V_1947,NON_CONFRONTABILE,NON_CONFRONTABILE,,,storico,Two Cities Films
+Il filo del rasoio_1947,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,20th Century Fox
+La vita è meravigliosa_1947,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,RKO Radio Pictures
+Barriera invisibile_1948,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+Grandi speranze_1948,DISCORDANTE,NON_CONFRONTABILE,romanzo,,drammatico,Rank Organisation
+Il miracolo della 34ª strada_1948,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,20th Century Fox
+La moglie del vescovo_1948,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,Samuel Goldwyn Productions
+Odio implacabile_1948,PARZIALE,NON_CONFRONTABILE,Drammatico,,western,Metro-Goldwyn-Mayer
+Amleto_1949,PARZIALE,NON_CONFRONTABILE,Tragedia,,drammatico,J. Arthur Rank-Two Cities Films
+La fossa dei serpenti_1949,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+Johnny Belinda_1949,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Warner Bros.
+Scarpette rosse_1949,DISCORDANTE,NON_CONFRONTABILE,drammatico,,musicale,The Rank Organisation
+Il tesoro della Sierra Madre_1949,CONCORDE,NON_CONFRONTABILE,western,,western,Warner Bros.
+Tutti gli uomini del re_1950,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+Bastogne_1950,NON_CONFRONTABILE,NON_CONFRONTABILE,,,bellico,Warner Bros.
+Cielo di fuoco_1950,PARZIALE,NON_CONFRONTABILE,Guerra,,drammatico,20th Century Fox
+L'ereditiera_1950,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Lettera a tre mogli_1950,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,20th Century Fox
+Eva contro Eva_1951,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+Le miniere del re Salomone_1951,NON_CONFRONTABILE,NON_CONFRONTABILE,,,avventura,Metro-Goldwyn-Mayer
+Nata ieri_1951,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Columbia Pictures
+Il padre della sposa_1951,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Metro-Goldwyn-Mayer
+Viale del tramonto_1951,PARZIALE,NON_CONFRONTABILE,noir,,drammatico,Paramount Pictures
+Un americano a Parigi_1952,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musicale,Metro-Goldwyn-Mayer
+I dannati_1952,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,London Film Productions
+Un posto al sole_1952,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Quo vadis_1952,NON_CONFRONTABILE,NON_CONFRONTABILE,,,peplum,Metro-Goldwyn-Mayer
+Un tram che si chiama Desiderio_1952,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Warner Bros.
+Il più grande spettacolo del mondo_1953,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Paramount Pictures
+Ivanhoe_1953,DISCORDANTE,NON_CONFRONTABILE,romanzo,,avventura,Metro-Goldwyn-Mayer
+Mezzogiorno di fuoco_1953,CONCORDE,NON_CONFRONTABILE,Western,,western,United Artists
+Moulin Rouge_1953,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Romulus Films
+Un uomo tranquillo_1953,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Republic Pictures
+Da qui all'eternità_1954,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+Il cavaliere della valle solitaria_1954,CONCORDE,NON_CONFRONTABILE,Western,,western,Warner Bros.
+Giulio Cesare_1954,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico storico,Metro-Goldwyn-Mayer
+La tunica_1954,PARZIALE,NON_CONFRONTABILE,Storico,,peplum,20th Century Fox
+Vacanze romane_1954,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia romantica,Paramount Pictures
+Fronte del porto_1955,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Columbia Pictures
+L'ammutinamento del Caine_1955,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Columbia Pictures
+La ragazza di campagna_1955,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,commedia musicale,Warner Bros.
+Sette spose per sette fratelli_1955,CONCORDE,NON_CONFRONTABILE,musicale,,musicale,Metro-Goldwyn-Mayer
+Tre soldi nella fontana_1955,CONCORDE,NON_CONFRONTABILE,commedia,,commedia romantica,20th Century Fox
+Marty_1956,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Hecht-Lancaster Productions
+L'amore è una cosa meravigliosa_1956,DISCORDANTE,NON_CONFRONTABILE,drammatico,,commedia,20th Century Fox
+La nave matta di Mister Roberts_1956,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Warner Bros.
+Picnic_1956,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+La rosa tatuata_1956,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Il giro del mondo in 80 giorni_1957,DISCORDANTE,NON_CONFRONTABILE,romanzo,,Avventura,Michael Todd Company
+I dieci comandamenti_1957,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico storico/religioso,Paramount Pictures
+Il gigante_1957,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Warner Bros.
+La legge del Signore_1957,CONCORDE,NON_CONFRONTABILE,western,,Western,20th Century Fox
+Il re ed io_1957,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Musical,20th Century Fox
+Il ponte sul fiume Kwai_1958,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico bellico,Columbia Pictures
+La parola ai giurati_1958,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico giudiziario,United Artists
+I peccatori di Peyton_1958,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,20th Century Fox
+Sayonara_1958,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico romantico,Warner Bros.
+Testimone d'accusa_1958,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Thriller giudiziario,United Artists
+Gigi_1959,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Musical,Metro-Goldwyn-Mayer
+La gatta sul tetto che scotta_1959,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Warner Bros.
+La parete di fango_1959,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,Warner Bros.
+La signora mia zia_1959,CONCORDE,NON_CONFRONTABILE,Commedia,,Commedia,Warner Bros.
+Tavole separate_1959,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,Metro-Goldwyn-Mayer
+Ben-Hur_1960,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Peplum/Drammatico storico,Metro-Goldwyn-Mayer
+Anatomia di un omicidio_1960,PARZIALE,NON_CONFRONTABILE,drammatico,,Drammatico giudiziario,Columbia Pictures
+Il diario di Anna Frank_1960,DISCORDANTE,NON_CONFRONTABILE,diaristico,,Drammatico,20th Century Fox
+La storia di una monaca_1960,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,20th Century Fox
+La strada dei quartieri alti_1960,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,Paramount Pictures
+L'appartamento_1961,PARZIALE,NON_CONFRONTABILE,commedia,,Commedia drammatica,United Artists
+La battaglia di Alamo_1961,PARZIALE,NON_CONFRONTABILE,Guerra,,Western storico,Batjac Productions/United Artists
+Figli e amanti_1961,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,20th Century Fox
+Il figlio di Giuda_1961,PARZIALE,NON_CONFRONTABILE,Drammatico,,Drammatico storico/religioso,Columbia Pictures
+I nomadi_1961,DISCORDANTE,NON_CONFRONTABILE,Musica Leggera,,Drammatico,Paramount Pictures
+West Side Story_1962,CONCORDE,NON_CONFRONTABILE,Musical,,Musical,United Artists
+I cannoni di Navarone_1962,PARZIALE,NON_CONFRONTABILE,Guerra,,Bellico/avventura,Columbia Pictures
+Fanny_1962,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico romantico,Warner Bros.
+Lo spaccone_1962,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,United Artists
+Vincitori e vinti_1962,PARZIALE,NON_CONFRONTABILE,storico,,Drammatico bellico,20th Century Fox
+Lawrence d'Arabia_1963,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico storico/epico,Columbia Pictures
+Gli ammutinati del Bounty_1963,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Avventura,Metro-Goldwyn-Mayer
+Il buio oltre la siepe_1963,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,Universal Pictures
+Capobanda_1963,DISCORDANTE,NON_CONFRONTABILE,musicale,,Drammatico,Paramount Pictures
+Il giorno più lungo_1963,PARZIALE,NON_CONFRONTABILE,Azione,,Bellico,20th Century Fox
+Tom Jones_1964,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia,Woodfall Film Productions
+Cleopatra_1964,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico storico,20th Century Fox
+La conquista del West_1964,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Western,Metro-Goldwyn-Mayer
+I gigli del campo_1964,PARZIALE,NON_CONFRONTABILE,Drammatico,,Commedia drammatica,United Artists
+Il ribelle dell'Anatolia_1964,PARZIALE,NON_CONFRONTABILE,Drammatico,,Drammatico bellico,Metro-Goldwyn-Mayer
+My Fair Lady_1965,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical,Warner Bros.
+Becket e il suo re_1965,PARZIALE,NON_CONFRONTABILE,Epico,,dramma storico,Paramount Pictures
+Il dottor Stranamore - Ovvero: come ho imparato a non preoccuparmi e ad amare la bomba_1965,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia satirica,Columbia Pictures
+Mary Poppins_1965,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical fantasy,Walt Disney Productions
+Zorba il greco_1965,CONCORDE,NON_CONFRONTABILE,drammatico,,dramma,20th Century Fox
+Tutti insieme appassionatamente_1966,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical,20th Century Fox
+Darling_1966,NON_CONFRONTABILE,NON_CONFRONTABILE,,,dramma,Anglo-Amalgamated
+Il dottor Živago_1966,DISCORDANTE,NON_CONFRONTABILE,romanzo,,dramma storico,Metro-Goldwyn-Mayer
+L'incredibile Murray - L'uomo che disse no_1966,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,commedia,Columbia Pictures
+La nave dei folli_1966,NON_CONFRONTABILE,NON_CONFRONTABILE,,,dramma,Columbia Pictures
+Un uomo per tutte le stagioni_1967,NON_CONFRONTABILE,NON_CONFRONTABILE,,,dramma storico,Columbia Pictures
+Alfie_1967,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia drammatica,Paramount Pictures
+Arrivano i russi_1967,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Metro-Goldwyn-Mayer
+Chi ha paura di Virginia Woolf?_1967,DISCORDANTE,NON_CONFRONTABILE,|Scena=,,dramma,Warner Bros.
+Quelli della San Pablo_1967,PARZIALE,NON_CONFRONTABILE,guerra,,dramma bellico,Warner Bros.
+La calda notte dell'ispettore Tibbs_1968,PARZIALE,NON_CONFRONTABILE,poliziesco,,giallo/thriller,United Artists
+Il favoloso dottor Dolittle_1968,PARZIALE,NON_CONFRONTABILE,Commedia,,musical fantasy,20th Century Fox
+Gangster Story_1968,PARZIALE,NON_CONFRONTABILE,Drammatico,,gangster,Warner Bros.
+Il laureato_1968,PARZIALE,NON_CONFRONTABILE,commedia,,commedia drammatica,Embassy Pictures
+Indovina chi viene a cena?_1968,PARZIALE,NON_CONFRONTABILE,Drammatico,,commedia drammatica,Columbia Pictures
+Oliver!_1969,CONCORDE,NON_CONFRONTABILE,Musicale,,musical,Columbia Pictures
+Funny Girl_1969,DISCORDANTE,NON_CONFRONTABILE,Commedia,,musical,Columbia Pictures
+Il leone d'inverno_1969,PARZIALE,NON_CONFRONTABILE,Epico,,dramma storico,Haworth Productions
+La prima volta di Jennifer_1969,CONCORDE,NON_CONFRONTABILE,Drammatico,,dramma,Cinerama Releasing
+Romeo e Giulietta_1969,PARZIALE,NON_CONFRONTABILE,Tragedia,,dramma romantico,BHE Films
+Un uomo da marciapiede_1970,CONCORDE,NON_CONFRONTABILE,drammatico,,dramma,Jerona Projects
+Anna dei mille giorni_1970,CONCORDE,NON_CONFRONTABILE,Storico,,dramma storico,Universal Pictures
+Butch Cassidy_1970,NON_CONFRONTABILE,NON_CONFRONTABILE,,,western,20th Century Fox
+Hello_1970,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Columbia Pictures
+Z - L'orgia del potere_1970,PARZIALE,NON_CONFRONTABILE,drammatico,,thriller politico,Valoria Films
+Patton_1971,NON_CONFRONTABILE,NON_CONFRONTABILE,,,dramma bellico,20th Century Fox
+Airport_1971,NON_CONFRONTABILE,NON_CONFRONTABILE,,,catastrofico,Universal Pictures
+Cinque pezzi facili_1971,CONCORDE,NON_CONFRONTABILE,Drammatico,,dramma,Columbia Pictures
+Love Story_1971,NON_CONFRONTABILE,NON_CONFRONTABILE,,,dramma romantico,Paramount Pictures
+M*A*S*H_1971,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia nera,20th Century Fox
+Il braccio violento della legge_1972,CONCORDE,NON_CONFRONTABILE,Poliziesco,,poliziottesco,Warner Bros.
+Arancia meccanica_1972,DISCORDANTE,NON_CONFRONTABILE,grottesco,,dystopian/crime,Warner Bros.
+Nicola e Alessandra_1972,PARZIALE,NON_CONFRONTABILE,biografico,,dramma storico,Columbia Pictures
+L'ultimo spettacolo_1972,CONCORDE,NON_CONFRONTABILE,Drammatico,,dramma,Columbia Pictures
+Il violinista sul tetto_1972,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,musical,United Artists
+Il padrino_1973,NON_CONFRONTABILE,NON_CONFRONTABILE,,,gangster,Paramount Pictures
+Karl e Kristina_1973,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Svensk Filmindustri
+Cabaret_1973,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musicale,ABC Pictures
+Sounder_1973,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,20th Century Fox
+Un tranquillo weekend di paura_1973,DISCORDANTE,NON_CONFRONTABILE,Avventura,,thriller,Columbia Pictures
+La stangata_1974,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Universal Pictures
+American Graffiti_1974,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Lucasfilm
+L'esorcista_1974,CONCORDE,NON_CONFRONTABILE,Horror,,horror,Warner Bros.
+Sussurri e grida_1974,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Cinematograph AB
+Un tocco di classe_1974,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Columbia Pictures
+Il padrino - Parte II_1975,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,gangster,Paramount Pictures
+Chinatown_1975,NON_CONFRONTABILE,NON_CONFRONTABILE,,,noir,Paramount Pictures
+La conversazione_1975,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,thriller,Paramount Pictures
+L'inferno di cristallo_1975,CONCORDE,NON_CONFRONTABILE,Catastrofico,,catastrofico,20th Century Fox
+Lenny_1975,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,United Artists
+Qualcuno volò sul nido del cuculo_1976,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,United Artists
+Barry Lyndon_1976,DISCORDANTE,NON_CONFRONTABILE,avventura,,storico,Warner Bros.
+Nashville_1976,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Quel pomeriggio di un giorno da cani_1976,DISCORDANTE,NON_CONFRONTABILE,Thriller,,drammatico,Warner Bros.
+Lo squalo_1976,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Universal Pictures
+Rocky_1977,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,sportivo,United Artists
+Questa terra è la mia terra_1977,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Warner Bros.
+Quinto potere_1977,CONCORDE,NON_CONFRONTABILE,satirico,,satira,United Artists
+Taxi Driver_1977,DISCORDANTE,NON_CONFRONTABILE,Noir,,drammatico,Columbia Pictures
+Tutti gli uomini del presidente_1977,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Warner Bros.
+Io e Annie_1978,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia romantica,United Artists
+Due vite_1978,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Giulia_1978,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,20th Century Fox
+Goodbye amore mio!_1978,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Columbia Pictures
+Guerre stellari_1978,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza,Lucasfilm
+Il cacciatore_1979,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Universal Pictures
+Fuga di mezzanotte_1979,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Columbia Pictures
+Il paradiso può attendere_1979,DISCORDANTE,NON_CONFRONTABILE,Commedia,,fantastico,Paramount Pictures
+Tornando a casa_1979,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+Una donna tutta sola_1979,DISCORDANTE,NON_CONFRONTABILE,commedia,,drammatico,20th Century Fox
+Kramer contro Kramer_1980,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Columbia Pictures
+All American Boys_1980,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Orion Pictures
+All That Jazz - Lo spettacolo comincia_1980,CONCORDE,NON_CONFRONTABILE,Musicale,,musicale,20th Century Fox
+Apocalypse Now_1980,CONCORDE,NON_CONFRONTABILE,guerra,,bellico,United Artists
+Norma Rae_1980,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,20th Century Fox
+Gente comune_1981,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+The Elephant Man_1981,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Brooksfilms
+La ragazza di Nashville_1981,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico musicale,Paramount Pictures
+Tess_1981,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Rastar Productions
+Toro scatenato_1981,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico sportivo,Chartoff-Winkler Productions
+Momenti di gloria_1982,DISCORDANTE,NON_CONFRONTABILE,storico,,drammatico sportivo,Enigma Productions
+Atlantic City_1982,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+I predatori dell'arca perduta_1982,CONCORDE,NON_CONFRONTABILE,avventura,,avventura,Lucasfilm
+Reds_1982,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico storico,Barclay Productions
+Sul lago dorato_1982,PARZIALE,NON_CONFRONTABILE,commedia,,commedia drammatica,Universal Pictures
+Gandhi_1983,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico storico,Goldcrest Films
+E.T. l'extra-terrestre_1983,CONCORDE,NON_CONFRONTABILE,Fantascienza,,fantascienza,Amblin Entertainment
+Missing - Scomparso_1983,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Universal Pictures
+Tootsie_1983,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Columbia Pictures
+Il verdetto_1983,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Fox
+Voglia di tenerezza_1984,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Paramount Pictures
+Il grande freddo_1984,DISCORDANTE,NON_CONFRONTABILE,commedia,,drammatico,Paramount Pictures
+Il servo di scena_1984,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Columbia Pictures
+Tender Mercies - Un tenero ringraziamento_1984,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,EMI Films
+Uomini veri_1984,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Delphi II Productions
+Amadeus_1985,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico biografico,The Saul Zaentz Company
+Passaggio in India_1985,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,EMI Films
+Le stagioni del cuore_1985,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+Storia di un soldato_1985,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Columbia Pictures
+Urla del silenzio_1985,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Panavision
+La mia Africa_1986,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Il bacio della donna ragno_1986,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Island Pictures
+Il colore viola_1986,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Amblin Entertainment
+L'onore dei Prizzi_1986,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia nera,ABC Motion Pictures
+Witness - Il testimone_1986,CONCORDE,NON_CONFRONTABILE,thriller,,thriller,Paramount Pictures
+Platoon_1987,PARZIALE,NON_CONFRONTABILE,guerra,,drammatico bellico,Hemdale Film Corporation
+Camera con vista_1987,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico romantico,Goldcrest Films
+Figli di un dio minore_1987,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Paramount Pictures
+Hannah e le sue sorelle_1987,PARZIALE,NON_CONFRONTABILE,commedia,,commedia drammatica,Orion Pictures
+Mission_1987,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico storico,Goldcrest Films
+L'ultimo imperatore_1988,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico biografico,Hemdale Film Corporation
+Anni '40_1988,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Touchstone Pictures
+Attrazione fatale_1988,CONCORDE,NON_CONFRONTABILE,thriller,,thriller,Paramount Pictures
+Dentro la notizia - Broadcast News_1988,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia drammatica,20th Century Fox
+Stregata dalla luna_1988,PARZIALE,NON_CONFRONTABILE,commedia,,commedia romantica,Metro-Goldwyn-Mayer
+Rain Man - L'uomo della pioggia_1989,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,United Artists
+Una donna in carriera_1989,PARZIALE,NON_CONFRONTABILE,commedia,,commedia romantica,20th Century Fox
+Mississippi Burning - Le radici dell'odio_1989,PARZIALE,NON_CONFRONTABILE,Drammatico,,thriller drammatico,Orion Pictures
+Le relazioni pericolose_1989,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Lorimar Film Entertainment
+Turista per caso_1989,DISCORDANTE,NON_CONFRONTABILE,drammatico,,commedia,HBO Films
+A spasso con Daisy_1990,DISCORDANTE,NON_CONFRONTABILE,commedia,,drammatico,Warner Bros.
+L'attimo fuggente_1990,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Touchstone Pictures
+Il mio piede sinistro_1990,PARZIALE,NON_CONFRONTABILE,biografico,,drammatico,Miramax Films
+Nato il quattro luglio_1990,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+L'uomo dei sogni_1990,PARZIALE,NON_CONFRONTABILE,Fantastico,,drammatico fantastico,Universal Pictures
+Balla coi lupi_1991,CONCORDE,NON_CONFRONTABILE,western,,western,Tig Productions
+Ghost - Fantasma_1991,DISCORDANTE,NON_CONFRONTABILE,Drammatico,,fantastico romantico,Paramount Pictures
+Il padrino - Parte III_1991,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Paramount Pictures
+Quei bravi ragazzi_1991,CONCORDE,NON_CONFRONTABILE,gangster,,gangster,Warner Bros.
+Risvegli_1991,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Columbia Pictures
+Il silenzio degli innocenti_1992,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Orion Pictures
+La bella e la bestia_1992,NON_CONFRONTABILE,NON_CONFRONTABILE,,,animazione,Walt Disney Pictures
+Bugsy_1992,PARZIALE,NON_CONFRONTABILE,Biografico,,drammatico,TriStar Pictures
+JFK - Un caso ancora aperto_1992,DISCORDANTE,NON_CONFRONTABILE,storico,,thriller drammatico,Warner Bros.
+Il principe delle maree_1992,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,The Zanuck Company
+Gli spietati_1993,CONCORDE,NON_CONFRONTABILE,western,,western,Warner Bros.
+Casa Howard_1993,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Merchant Ivory Productions
+Codice d'onore_1993,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico giudiziario,Columbia Pictures
+La moglie del soldato_1993,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico romantico,20th Century Fox
+Scent of a Woman - Profumo di donna_1993,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Universal Pictures
+Schindler's List - La lista di Schindler_1994,PARZIALE,NON_CONFRONTABILE,Biografico,,drammatico storico,Amblin Entertainment
+Il fuggitivo_1994,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Warner Bros.
+Lezioni di piano_1994,DISCORDANTE,NON_CONFRONTABILE,Romantico,,drammatico,Jan Chapman Productions
+Nel nome del padre_1994,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Quel che resta del giorno_1994,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Merchant Ivory Productions
+Forrest Gump_1995,DISCORDANTE,NON_CONFRONTABILE,Commedia,,drammatico,Paramount Pictures
+Le ali della libertà_1995,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Castle Rock Entertainment
+Pulp Fiction_1995,DISCORDANTE,NON_CONFRONTABILE,drammatico,,crime,Miramax Films
+Quattro matrimoni e un funerale_1995,PARZIALE,NON_CONFRONTABILE,commedia,,commedia romantica,Channel Four Films
+Quiz Show_1995,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Hollywood Pictures
+Braveheart - Cuore impavido_1996,CONCORDE,NON_CONFRONTABILE,storico,,storico,Paramount Pictures
+Apollo 13_1996,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico storico,Universal Pictures
+Babe - Maialino coraggioso_1996,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia fantastica,Universal Pictures
+Il postino_1996,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico romantico,Cecchi Gori Group
+Ragione e sentimento_1996,DISCORDANTE,NON_CONFRONTABILE,romanzo,,drammatico romantico,Columbia Pictures
+Il paziente inglese_1997,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Miramax Films
+Fargo_1997,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,PolyGram Filmed Entertainment
+Jerry Maguire_1997,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia romantica,TriStar Pictures
+Segreti e bugie_1997,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Thin Man Films
+Shine_1997,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Jane Scott Productions
+Titanic_1998,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico romantico,20th Century Fox
+Full Monty - Squattrinati organizzati_1998,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,20th Century Fox
+L.A. Confidential_1998,NON_CONFRONTABILE,NON_CONFRONTABILE,,,noir,Regency Enterprises
+Qualcosa è cambiato_1998,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia romantica,Columbia Pictures
+Will Hunting - Genio ribelle_1998,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Miramax Films
+Shakespeare in Love_1999,PARZIALE,NON_CONFRONTABILE,commedia,,commedia romantica,Miramax Films
+Elizabeth_1999,NON_CONFRONTABILE,NON_CONFRONTABILE,,,storico,PolyGram Filmed Entertainment
+Salvate il soldato Ryan_1999,CONCORDE,NON_CONFRONTABILE,Guerra,,bellico,DreamWorks Pictures
+La sottile linea rossa_1999,NON_CONFRONTABILE,NON_CONFRONTABILE,,,bellico,20th Century Fox
+La vita è bella_1999,PARZIALE,NON_CONFRONTABILE,drammatico,,commedia drammatica,Cecchi Gori Group
+American Beauty_2000,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,DreamWorks Pictures
+Il miglio verde_2000,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico fantasy,Warner Bros.
+The Sixth Sense - Il sesto senso_2000,DISCORDANTE,NON_CONFRONTABILE,drammatico,,thriller soprannaturale,Hollywood Pictures
+Insider - Dietro la verità_2000,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Touchstone Pictures
+Le regole della casa del sidro_2000,DISCORDANTE,NON_CONFRONTABILE,romanzo,,drammatico,Miramax Films
+Il gladiatore_2001,CONCORDE,NON_CONFRONTABILE,storico,,storico,DreamWorks Pictures
+Chocolat_2001,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia drammatica,Miramax Films
+Erin Brockovich - Forte come la verità_2001,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Universal Pictures
+La tigre e il dragone_2001,DISCORDANTE,NON_CONFRONTABILE,Azione,,wuxia,Sony Pictures Classics
+Traffic_2001,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,USA Films
+A Beautiful Mind_2002,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico biografico,Universal Pictures
+Gosford Park_2002,DISCORDANTE,NON_CONFRONTABILE,commedia,,mystery,USA Films
+Il Signore degli Anelli - La Compagnia dell'Anello_2002,CONCORDE,NON_CONFRONTABILE,Fantastico,,fantasy,New Line Cinema
+In the Bedroom_2002,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Miramax Films
+Moulin Rouge!_2002,CONCORDE,NON_CONFRONTABILE,musical,,musical,20th Century Fox
+Chicago_2003,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical,Miramax Films
+Gangs of New York_2003,PARZIALE,NON_CONFRONTABILE,Drammatico,,storico,Miramax Films
+Il pianista_2003,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico biografico,Focus Features
+Il Signore degli Anelli - Le due torri_2003,CONCORDE,NON_CONFRONTABILE,Fantastico,,fantasy,New Line Cinema
+The Hours_2003,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Paramount Pictures
+Il Signore degli Anelli - Il ritorno del re_2004,CONCORDE,NON_CONFRONTABILE,Fantastico,,fantasy,New Line Cinema
+Lost in Translation - L'amore tradotto_2004,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia drammatica,Focus Features
+Master & Commander - Sfida ai confini del mare_2004,NON_CONFRONTABILE,NON_CONFRONTABILE,,,avventura,20th Century Fox
+Mystic River_2004,DISCORDANTE,NON_CONFRONTABILE,giallo,,drammatico,Warner Bros.
+Seabiscuit - Un mito senza tempo_2004,PARZIALE,NON_CONFRONTABILE,biografico,,drammatico sportivo,Universal Pictures
+Million Dollar Baby_2005,DISCORDANTE,NON_CONFRONTABILE,Sportivo,,drammatico,Warner Bros.
+The Aviator_2005,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Warner Bros.
+Neverland - Un sogno per la vita_2005,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Miramax Films
+Ray_2005,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Universal Pictures
+Sideways - In viaggio con Jack_2005,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Fox Searchlight Pictures
+Crash - Contatto fisico_2006,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Lions Gate Films
+Good Night_2006,DISCORDANTE,NON_CONFRONTABILE,Ninna nanna,,drammatico,Warner Bros.
+Munich_2006,NON_CONFRONTABILE,NON_CONFRONTABILE,,,storico,Universal Pictures
+I segreti di Brokeback Mountain_2006,PARZIALE,NON_CONFRONTABILE,romantico,,drammatico,Focus Features
+Truman Capote - A sangue freddo_2006,CONCORDE,NON_CONFRONTABILE,biografico,,biografico,Sony Pictures Classics
+The Departed - Il bene e il male_2007,PARZIALE,NON_CONFRONTABILE,Poliziesco,,thriller,Warner Bros.
+Babel_2007,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Vantage
+Lettere da Iwo Jima_2007,PARZIALE,NON_CONFRONTABILE,Biografico,,guerra,Warner Bros.
+Little Miss Sunshine_2007,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Fox Searchlight Pictures
+The Queen - La regina_2007,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Miramax Films
+Non è un paese per vecchi_2008,DISCORDANTE,NON_CONFRONTABILE,romanzo,,thriller,Miramax Films
+Espiazione_2008,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Juno_2008,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia,Fox Searchlight Pictures
+Michael Clayton_2008,CONCORDE,NON_CONFRONTABILE,Thriller,,thriller,Warner Bros.
+Il petroliere_2008,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Paramount Vantage
+The Millionaire_2009,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Fox Searchlight Pictures
+Il curioso caso di Benjamin Button_2009,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantastico,Paramount Pictures
+Frost/Nixon - Il duello_2009,CONCORDE,NON_CONFRONTABILE,Storico,,storico,Universal Pictures
+Milk_2009,NON_CONFRONTABILE,NON_CONFRONTABILE,,,biografico,Focus Features
+The Reader - A voce alta_2009,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,The Weinstein Company
+The Hurt Locker_2010,CONCORDE,NON_CONFRONTABILE,guerra,,guerra,Summit Entertainment
+Avatar_2010,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza,20th Century Fox
+Bastardi senza gloria_2010,DISCORDANTE,NON_CONFRONTABILE,avventura,,guerra,The Weinstein Company
+The Blind Side_2010,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Warner Bros.
+District 9_2010,CONCORDE,NON_CONFRONTABILE,Fantascienza,,fantascienza,Sony Pictures
+An Education_2010,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Sony Pictures Classics
+Precious_2010,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Lions Gate Films
+A Serious Man_2010,CONCORDE,NON_CONFRONTABILE,commedia,,commedia,Focus Features
+Tra le nuvole_2010,PARZIALE,NON_CONFRONTABILE,commedia,,drammatico,Paramount Pictures
+Up_2010,NON_CONFRONTABILE,NON_CONFRONTABILE,,,animazione,Walt Disney Pictures
+Il discorso del re_2011,PARZIALE,NON_CONFRONTABILE,biografico,,storico,The Weinstein Company
+Il cigno nero_2011,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Fox Searchlight Pictures
+Inception_2011,DISCORDANTE,NON_CONFRONTABILE,azione,,fantascienza,Warner Bros.
+The Fighter_2011,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Paramount Pictures
+The Social Network_2011,CONCORDE,NON_CONFRONTABILE,biografico,,biografico,Columbia Pictures
+Il Grinta_2011,CONCORDE,NON_CONFRONTABILE,western,,Western,Paramount Pictures
+127 ore_2011,DISCORDANTE,NON_CONFRONTABILE,Biografico,,Drammatico,Fox Searchlight Pictures
+I ragazzi stanno bene_2011,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia drammatica,Focus Features
+Toy Story 3 - La grande fuga_2011,CONCORDE,NON_CONFRONTABILE,animazione,,Animazione,Pixar Animation Studios
+Un gelido inverno_2011,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,Sony Pictures Classics
+The Artist_2012,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia drammatica,La Petite Reine
+Hugo Cabret_2012,DISCORDANTE,NON_CONFRONTABILE,storico,,Avventura,Paramount Pictures
+Midnight in Paris_2012,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia fantasy,Mediapro
+Molto forte_2012,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico sportivo,Columbia Pictures
+Paradiso amaro_2012,PARZIALE,NON_CONFRONTABILE,drammatico,,Commedia drammatica,Fox Searchlight Pictures
+The Tree of Life_2012,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,Fox Searchlight Pictures
+L'arte di vincere_2012,PARZIALE,NON_CONFRONTABILE,Biografico,,Drammatico sportivo,Columbia Pictures
+The Help_2012,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico,DreamWorks Pictures
+War Horse_2012,DISCORDANTE,NON_CONFRONTABILE,romanzo,,Drammatico bellico,DreamWorks Pictures
+Argo_2013,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Thriller,Warner Bros. Pictures
+Django Unchained_2013,CONCORDE,NON_CONFRONTABILE,Western,,Western,The Weinstein Company
+Vita di Pi_2013,DISCORDANTE,NON_CONFRONTABILE,romanzo,,Avventura,20th Century Fox
+Lincoln_2013,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico storico,DreamWorks Pictures
+Zero Dark Thirty_2013,DISCORDANTE,NON_CONFRONTABILE,drammatico,,Thriller,Columbia Pictures
+Il lato positivo - Silver Linings Playbook_2013,PARZIALE,NON_CONFRONTABILE,Commedia,,Commedia drammatica,The Weinstein Company
+Les Misérables_2013,DISCORDANTE,NON_CONFRONTABILE,Romanzo,,Musical,Universal Pictures
+Amour_2013,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,Les Films du Losange
+Re della terra selvaggia_2013,CONCORDE,NON_CONFRONTABILE,drammatico,,Drammatico,Fox Searchlight Pictures
+12 anni schiavo_2014,PARZIALE,NON_CONFRONTABILE,Storico,,Drammatico storico,Fox Searchlight Pictures
+The Wolf of Wall Street_2014,DISCORDANTE,NON_CONFRONTABILE,biografico,,Commedia nera,Paramount Pictures
+Dallas Buyers Club_2014,DISCORDANTE,NON_CONFRONTABILE,Biografico,,Drammatico,Focus Features
+American Hustle - L'apparenza inganna_2014,PARZIALE,NON_CONFRONTABILE,commedia,,Commedia nera,Columbia Pictures
+Philomena_2014,PARZIALE,NON_CONFRONTABILE,biografico,,Drammatico,The Weinstein Company
+Gravity_2014,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Fantascienza,Warner Bros. Pictures
+Lei_2014,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Fantascienza romantica,Warner Bros. Pictures
+Nebraska_2014,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia drammatica,Paramount Pictures
+Captain Phillips - Attacco in mare aperto_2014,DISCORDANTE,NON_CONFRONTABILE,Biografico,,Thriller,Columbia Pictures
+Birdman_2015,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Commedia nera,Fox Searchlight Pictures
+American Sniper_2015,DISCORDANTE,NON_CONFRONTABILE,azione,,Drammatico bellico,Warner Bros. Pictures
+Boyhood_2015,CONCORDE,NON_CONFRONTABILE,Drammatico,,Drammatico,IFC Films
+Grand Budapest Hotel_2015,CONCORDE,NON_CONFRONTABILE,commedia,,Commedia,Fox Searchlight Pictures
+The Imitation Game_2015,PARZIALE,NON_CONFRONTABILE,Biografico,,Drammatico storico,The Weinstein Company
+Selma - La strada per la libertà_2015,PARZIALE,NON_CONFRONTABILE,Biografico,,Drammatico storico,Paramount Pictures
+La teoria del tutto_2015,CONCORDE,NON_CONFRONTABILE,Biografico,,Drammatico biografico,Universal Pictures
+Whiplash_2015,NON_CONFRONTABILE,NON_CONFRONTABILE,,,Drammatico musicale,Sony Pictures Classics
+Il caso Spotlight_2016,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,Open Road Films
+Revenant - Redivivo_2016,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,20th Century Fox
+Mad Max: Fury Road_2016,CONCORDE,NON_CONFRONTABILE,Azione,,azione,Warner Bros.
+Sopravvissuto - The Martian_2016,CONCORDE,NON_CONFRONTABILE,Fantascienza,,fantascienza,20th Century Fox
+Il ponte delle spie_2016,DISCORDANTE,NON_CONFRONTABILE,Biografico,,thriller,DreamWorks Pictures
+Room_2016,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,A24
+La grande scommessa_2016,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,Paramount Pictures
+Brooklyn_2016,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Fox Searchlight Pictures
+Moonlight_2017,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,A24
+Arrival_2017,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza,Paramount Pictures
+Barriere_2017,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Paramount Pictures
+La battaglia di Hacksaw Ridge_2017,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Summit Entertainment
+Hell or High Water_2017,DISCORDANTE,NON_CONFRONTABILE,Azione,,thriller,CBS Films
+Il diritto di contare_2017,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,20th Century Fox
+La La Land_2017,CONCORDE,NON_CONFRONTABILE,musicale,,musicale,Summit Entertainment
+Lion - La strada verso casa_2017,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,The Weinstein Company
+Manchester by the Sea_2017,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Amazon Studios
+La forma dell'acqua - The Shape of Water_2018,CONCORDE,NON_CONFRONTABILE,Fantastico,,fantasy,Fox Searchlight Pictures
+Chiamami col tuo nome_2018,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Sony Pictures Classics
+Dunkirk_2018,NON_CONFRONTABILE,NON_CONFRONTABILE,,,bellico,Warner Bros.
+Il filo nascosto_2018,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Focus Features
+Lady Bird_2018,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,A24
+L'ora più buia_2018,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,Focus Features
+The Post_2018,DISCORDANTE,NON_CONFRONTABILE,Biografico,,drammatico,20th Century Fox
+Scappa - Get Out_2018,CONCORDE,NON_CONFRONTABILE,Orrore,,horror,Universal Pictures
+Tre manifesti a Ebbing_2018,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Fox Searchlight Pictures
+Green Book_2019,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Universal Pictures
+Black Panther_2019,NON_CONFRONTABILE,NON_CONFRONTABILE,,,azione,Marvel Studios
+BlacKkKlansman_2019,DISCORDANTE,NON_CONFRONTABILE,Biografico,,commedia,Focus Features
+Bohemian Rhapsody_2019,DISCORDANTE,NON_CONFRONTABILE,Rock progressivo,,biografico,20th Century Fox
+La favorita_2019,DISCORDANTE,NON_CONFRONTABILE,grand opéra,,commedia,Fox Searchlight Pictures
+Roma_2019,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Netflix
+A Star Is Born_2019,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musicale,Warner Bros.
+Vice - L'uomo nell'ombra_2019,CONCORDE,NON_CONFRONTABILE,Biografico,,biografico,Annapurna Pictures
+Parasite_2020,CONCORDE,NON_CONFRONTABILE,Thriller,,thriller,CJ Entertainment
+1917_2020,NON_CONFRONTABILE,NON_CONFRONTABILE,,,bellico,Universal Pictures
+C'era una volta a... Hollywood_2020,DISCORDANTE,NON_CONFRONTABILE,commedia,,drammatico,Sony Pictures
+The Irishman_2020,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Netflix
+Jojo Rabbit_2020,CONCORDE,NON_CONFRONTABILE,Commedia,,commedia,Fox Searchlight Pictures
+Joker_2020,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Warner Bros.
+Le Mans '66 - La grande sfida_2020,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico/sportivo,20th Century Fox
+Piccole donne_2020,DISCORDANTE,NON_CONFRONTABILE,romanzo,,drammatico,Columbia Pictures
+Storia di un matrimonio_2020,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Netflix
+Nomadland_2021,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Searchlight Pictures
+Il processo ai Chicago 7_2021,PARZIALE,NON_CONFRONTABILE,Drammatico,,drammatico giudiziario,Netflix
+Una donna promettente_2021,PARZIALE,NON_CONFRONTABILE,drammatico,,thriller/drammatico,Focus Features
+Judas and the Black Messiah_2021,PARZIALE,NON_CONFRONTABILE,Biografico,,drammatico/biografico,Warner Bros.
+Mank_2021,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico/biografico,Netflix
+The Father - Nulla è come sembra_2021,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Sony Pictures Classics
+Minari_2021,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,A24
+Sound of Metal_2021,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Amazon Studios
+CODA - I segni del cuore_2022,PARZIALE,NON_CONFRONTABILE,Commedia,,drammatico/commedia,Apple TV+
+Belfast_2022,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico,Focus Features
+Don't Look Up_2022,PARZIALE,NON_CONFRONTABILE,Commedia,,satira/commedia,Netflix
+Drive My Car_2022,DISCORDANTE,NON_CONFRONTABILE,Merseybeat,,drammatico,Bitters End
+Dune_2022,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza,Warner Bros./Legendary Pictures
+Il potere del cane_2022,NON_CONFRONTABILE,NON_CONFRONTABILE,,,western/drammatico,Netflix
+Licorice Pizza_2022,PARZIALE,NON_CONFRONTABILE,Commedia,,commedia/drammatico,Metro-Goldwyn-Mayer/United Artists
+La fiera delle illusioni - Nightmare Alley_2022,PARZIALE,NON_CONFRONTABILE,Noir,,thriller/noir,Searchlight Pictures
+Una famiglia vincente - King Richard_2022,PARZIALE,NON_CONFRONTABILE,Biografico,,drammatico/biografico,Warner Bros.
+West Side Story_2022,CONCORDE,NON_CONFRONTABILE,Musical,,musical,20th Century Studios
+Everything Everywhere All at Once_2023,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza/commedia,A24
+Niente di nuovo sul fronte occidentale_2023,DISCORDANTE,NON_CONFRONTABILE,Romanzo,,drammatico/bellico,Netflix
+Avatar - La via dell'acqua_2023,CONCORDE,NON_CONFRONTABILE,fantascienza,,fantascienza,20th Century Studios
+Gli spiriti dell'isola_2023,PARZIALE,NON_CONFRONTABILE,Drammatico,,commedia/drammatico,Searchlight Pictures
+Elvis_2023,DISCORDANTE,NON_CONFRONTABILE,Rock and roll,,biografico/musicale,Warner Bros.
+The Fabelmans_2023,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Universal Pictures/Amblin Entertainment
+Tár_2023,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Focus Features
+Top Gun: Maverick_2023,CONCORDE,NON_CONFRONTABILE,azione,,azione,Paramount Pictures
+Triangle of Sadness_2023,PARZIALE,NON_CONFRONTABILE,satirico,,satira/commedia,Plattform Produktion
+Women Talking - Il diritto di scegliere_2023,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Orion Pictures/United Artists
+Oppenheimer_2024,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico/biografico,Universal Pictures
+American Fiction_2024,PARZIALE,NON_CONFRONTABILE,commedia,,satira/commedia,Orion Pictures
+Anatomia di una caduta_2024,PARZIALE,NON_CONFRONTABILE,Thriller,,drammatico giudiziario,Les Films Pelléas
+Barbie_2024,NON_CONFRONTABILE,NON_CONFRONTABILE,,,commedia/fantasy,Warner Bros.
+The Holdovers - Lezioni di vita_2024,PARZIALE,NON_CONFRONTABILE,commedia,,commedia/drammatico,Focus Features
+Killers of the Flower Moon_2024,PARZIALE,NON_CONFRONTABILE,Thriller,,western/drammatico,Apple Original Films/Paramount Pictures
+Maestro_2024,NON_CONFRONTABILE,NON_CONFRONTABILE,,,drammatico/biografico,Netflix
+Past Lives_2024,DISCORDANTE,NON_CONFRONTABILE,Heavy metal,,drammatico/romantico,A24
+Povere creature!_2024,PARZIALE,NON_CONFRONTABILE,Commedia,,fantasy/commedia,Searchlight Pictures
+La zona d'interesse_2024,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,A24
+Anora_2025,DISCORDANTE,NON_CONFRONTABILE,commedia,,drammatico,Neon
+The Brutalist_2025,DISCORDANTE,NON_CONFRONTABILE,epico,,drammatico,A24
+A Complete Unknown_2025,CONCORDE,NON_CONFRONTABILE,biografico,,biografico,Searchlight Pictures
+Conclave_2025,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Focus Features
+Dune - Parte due_2025,PARZIALE,NON_CONFRONTABILE,Avventura,,fantascienza,Warner Bros. Pictures
+Emilia Pérez_2025,DISCORDANTE,NON_CONFRONTABILE,drammatico,,thriller musicale,Pathé
+Io sono ancora qui_2025,PARZIALE,NON_CONFRONTABILE,Storico,,drammatico,Sony Pictures Releasing
+I ragazzi della Nickel_2025,DISCORDANTE,NON_CONFRONTABILE,romanzo,,drammatico,Orion Pictures
+The Substance_2025,DISCORDANTE,NON_CONFRONTABILE,drammatico,,horror,Mubi
+Wicked_2025,NON_CONFRONTABILE,NON_CONFRONTABILE,,,musical fantasy,Universal Pictures
+Una battaglia dopo l'altra_2026,DISCORDANTE,NON_CONFRONTABILE,drammatico,,thriller,Warner Bros. Pictures
+Bugonia_2026,NON_CONFRONTABILE,NON_CONFRONTABILE,,,fantascienza,Focus Features
+F1 - Il film_2026,PARZIALE,NON_CONFRONTABILE,azione,,sportivo,Warner Bros. Pictures
+Frankenstein_2026,NON_CONFRONTABILE,NON_CONFRONTABILE,,,horror,Netflix
+Hamnet - Nel nome del figlio_2026,DISCORDANTE,NON_CONFRONTABILE,biografico,,drammatico,Focus Features
+Marty Supreme_2026,CONCORDE,NON_CONFRONTABILE,sportivo,,drammatico sportivo,A24
+L'agente segreto_2026,NON_CONFRONTABILE,NON_CONFRONTABILE,,,thriller,Neon
+Sentimental Value_2026,CONCORDE,NON_CONFRONTABILE,Drammatico,,drammatico,Neon
+I peccatori_2026,CONCORDE,NON_CONFRONTABILE,horror,,horror,Warner Bros. Pictures
+Train Dreams_2026,CONCORDE,NON_CONFRONTABILE,drammatico,,drammatico,Netflix

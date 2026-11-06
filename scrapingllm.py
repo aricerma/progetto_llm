@@ -10,34 +10,26 @@ from dotenv import load_dotenv
 
 from openai import OpenAI, APIStatusError, APIConnectionError, APITimeoutError
 
-# ----------------- CONFIGURAZIONE (struttura invariata) -----------------
 INPUT_CSV = "oscar_miglior_film.csv"
-OUTPUT_JSON = "oscar_produzione_genere.json"
+OUTPUT_JSON = "oscar_produzione_genere_llm.json"
 
 BATCH_SIZE = 40
-PAUSA_TRA_CHIAMATE = 10
+PAUSA_TRA_CHIAMATE = 5
 TENTATIVI_MAX = 5
-MODELLO = "z-ai/glm-5.3-flash"   # slug OpenRouter di GLM 5.3 Flash
+MODELLO = "z-ai/glm-5.3-flash"
 
 load_dotenv()
 
 API_KEY = os.environ.get("OPENROUTER_API_KEY")
 if not API_KEY:
-    sys.exit(
-        "ERRORE: OPENROUTER_API_KEY non trovata nell'ambiente.\n"
-        "Attenzione ai refusi: la variabile corretta è OPENROUTER_API_KEY\n"
-        "(nel tuo comando era 'OPENROUTER_API_KET', senza la Y finale).\n\n"
-        "Uso corretto:\n"
-        '  export OPENROUTER_API_KEY="sk-or-v1-..." && python3 scrapingllm.py\n'
-        '  oppure: OPENROUTER_API_KEY="sk-or-v1-..." python3 scrapingllm.py'
-    )
+    sys.exit("ERRORE: OPENROUTER_API_KEY non trovata (file .env o export).")
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=API_KEY,
-    timeout=180.0,      # batch da 40 record => risposte lunghe, timeout generoso
-    max_retries=1,      # 1 retry a livello SDK; il resto è gestito manualmente
-    default_headers={   # header raccomandati da OpenRouter
+    timeout=300.0,   # reasoning obbligatorio => risposte piu lente
+    max_retries=1,
+    default_headers={
         "HTTP-Referer": "http://localhost",
         "X-Title": "oscar-metadata-extractor",
     },
@@ -58,12 +50,33 @@ Restituisci ESCLUSIVAMENTE un oggetto JSON con questa struttura esatta, senza ag
 }
 Non includere ragionamenti, spiegazioni o blocchi markdown: SOLO l'oggetto JSON."""
 
-_json_mode_ok = True  # disattivata automaticamente se il provider non la supporta
+# Configurazioni da provare in cascata: la prima che il provider accetta viene mantenuta.
+# Questo endpoint esige il reasoning: NON tentiamo mai di disattivarlo.
+CONFIGS = [
+    # 1) JSON mode + reasoning con sforzo ridotto (idealmente escluso dall'output)
+    {"response_format": {"type": "json_object"},
+     "extra_body": {"reasoning": {"effort": "low", "exclude": True}}},
+    # 2) JSON mode, parametri reasoning omessi (uso default del provider)
+    {"response_format": {"type": "json_object"}},
+    # 3) nessun parametro extra
+    {},
+]
+_config_idx = 0
+
+
+def dettaglio_errore(e) -> str:
+    try:
+        return (e.response.text or str(e))[:500]
+    except Exception:
+        return str(e)[:500]
+
+
+class RispostaTroncata(Exception):
+    pass
 
 
 def chiama_modello(prompt_utente: str) -> str:
-    """Chiamata a OpenRouter con retry, backoff esponenziale e gestione errori robusta."""
-    global _json_mode_ok
+    global _config_idx
 
     for tentativo in range(1, TENTATIVI_MAX + 1):
         kwargs = dict(
@@ -73,53 +86,49 @@ def chiama_modello(prompt_utente: str) -> str:
                 {"role": "user", "content": prompt_utente},
             ],
             temperature=0.0,
-            # GLM 5.3 Flash ha il 'thinking' attivo di default: lo disattiviamo
-            # ed escludiamo il reasoning dall'output: è la causa tipica di
-            # message.content = None (l'errore NoneType che avevi).
-            extra_body={"reasoning": {"enabled": False, "exclude": True}},
         )
-        if _json_mode_ok:
-            kwargs["response_format"] = {"type": "json_object"}
+        kwargs.update(CONFIGS[_config_idx])
 
         try:
             risposta = client.chat.completions.create(**kwargs)
 
             if not risposta.choices:
-                raise ValueError("Risposta API senza 'choices' (errore a monte del provider).")
+                raise ValueError("Risposta API senza 'choices'.")
 
             scelta = risposta.choices[0]
             if scelta.finish_reason == "length":
-                raise ValueError(
-                    "Risposta troncata (finish_reason='length'): riduci BATCH_SIZE (es. 20)."
-                )
+                raise RispostaTroncata()
 
             messaggio = scelta.message
             testo = messaggio.content
 
-            # >>> FIX dell'errore: 'NoneType' object has no attribute 'strip' <<<
             if testo is None or not testo.strip():
+                # Reasoning obbligatorio: se il JSON e' finito nel campo reasoning, proviamo a recuperarlo
                 reasoning = getattr(messaggio, "reasoning", None) or \
                             (messaggio.model_extra or {}).get("reasoning")
-                extra = " (ricevuto solo il campo 'reasoning')" if reasoning else ""
-                raise ValueError(f"Il modello ha restituito un contenuto vuoto o nullo{extra}.")
+                if reasoning and "{" in reasoning:
+                    print("  [Avviso] content vuoto: tento il recupero dal campo reasoning...")
+                    return reasoning
+                raise ValueError("Contenuto vuoto o nullo.")
 
             return testo
 
         except APIStatusError as e:
             codice = e.status_code
-            # Errori NON recuperabili: esce subito con messaggio chiaro
+
             if codice in (401, 402, 403):
-                sys.exit(f"[Fatale {codice}] Problema di autenticazione o credito OpenRouter: {e}")
+                sys.exit(f"[Fatale {codice}] Autenticazione/crediti: {dettaglio_errore(e)}")
             if codice == 404:
-                sys.exit(
-                    f"[Fatale 404] Modello '{MODELLO}' non trovato su OpenRouter. "
-                    "Verifica lo slug esatto (vedi nota 'verifica slug' nella documentazione dello script)."
-                )
-            if codice == 400 and "response_format" in str(e):
-                _json_mode_ok = False
-                print("  [Info] JSON mode non supportata dal provider: riprovo senza 'response_format'.")
-                continue
-            # 429 (rate limit) e 5xx: recuperabili -> backoff
+                sys.exit(f"[Fatale 404] Modello '{MODELLO}' inesistente su OpenRouter.")
+
+            if codice == 400:
+                print(f"  [400] Dettaglio: {dettaglio_errore(e)}")
+                if _config_idx < len(CONFIGS) - 1:
+                    _config_idx += 1
+                    print(f"  [Fallback] Cambio configurazione richiesta (#{_config_idx + 1}/{len(CONFIGS)}) e riprovo...")
+                    continue
+                sys.exit("[Fatale 400] Tutte le configurazioni sono state rifiutate. Incolla il dettaglio qui sopra.")
+
             if codice == 429:
                 retry_after = None
                 try:
@@ -129,8 +138,9 @@ def chiama_modello(prompt_utente: str) -> str:
                 attesa = float(retry_after) if retry_after else min(60, 5 * 2 ** (tentativo - 1))
             else:
                 attesa = min(60, 5 * 2 ** (tentativo - 1))
-            attesa += random.uniform(0, 1.5)  # jitter anti-thundering-herd
-            print(f"  [Tentativo {tentativo}/{TENTATIVI_MAX}] HTTP {codice}: riprovo tra {attesa:.0f}s...")
+            attesa += random.uniform(0, 1.5)
+            print(f"  [Tentativo {tentativo}/{TENTATIVI_MAX}] HTTP {codice}: {dettaglio_errore(e)[:150]}")
+            print(f"  Riprovo tra {attesa:.0f}s...")
             if tentativo == TENTATIVI_MAX:
                 raise
             time.sleep(attesa)
@@ -142,18 +152,19 @@ def chiama_modello(prompt_utente: str) -> str:
                 raise
             time.sleep(attesa)
 
-        except ValueError as e:
+        except (ValueError, RispostaTroncata) as e:
+            if isinstance(e, RispostaTroncata):
+                raise  # gestita da analizza_batch con lo split del batch
             attesa = min(60, 5 * 2 ** (tentativo - 1)) + random.uniform(0, 1.5)
             print(f"  [Tentativo {tentativo}/{TENTATIVI_MAX}] {e}. Riprovo tra {attesa:.0f}s...")
             if tentativo == TENTATIVI_MAX:
                 raise
             time.sleep(attesa)
 
-    raise RuntimeError(f"Esauriti i {TENTATIVI_MAX} tentativi con il modello {MODELLO}.")
+    raise RuntimeError(f"Esauriti i {TENTATIVI_MAX} tentativi con {MODELLO}.")
 
 
 def estrai_json(testo: str) -> dict:
-    """Pulisce recinti markdown e parsa il JSON, con fallback robusto."""
     pulito = testo.strip()
     pulito = re.sub(r"^```(?:json)?\s*", "", pulito, flags=re.IGNORECASE)
     pulito = re.sub(r"\s*```\s*$", "", pulito).strip()
@@ -161,28 +172,25 @@ def estrai_json(testo: str) -> dict:
         return json.loads(pulito)
     except json.JSONDecodeError:
         pass
-    # Fallback: isola il primo oggetto '{' ... '}' presente nel testo
     inizio, fine = pulito.find("{"), pulito.rfind("}")
     if inizio != -1 and fine > inizio:
         try:
             return json.loads(pulito[inizio: fine + 1])
         except json.JSONDecodeError:
             pass
-    raise ValueError(f"Il modello non ha restituito un JSON valido. Output grezzo: {testo[:150]!r}...")
+    raise ValueError(f"JSON non valido. Output grezzo: {testo[:150]!r}...")
 
 
 def chiave_norm(titolo, anno) -> str:
-    """Chiave normalizzata (case/spazi-insensitive) per abbinare input e output del modello."""
     t = re.sub(r"\s+", " ", str(titolo or "")).strip().lower()
     return f"{t}_{str(anno or '').strip()}"
 
 
-def analizza_batch(batch: list[dict]) -> dict:
+def _analizza_batch_unitario(batch: list) -> dict:
     prompt_utente = json.dumps(
         [{"titolo_it": r["titolo_it"], "anno": r["anno"]} for r in batch],
         ensure_ascii=False,
     )
-
     dati_json = estrai_json(chiama_modello(prompt_utente))
 
     if not isinstance(dati_json, dict) or not isinstance(dati_json.get("film"), list):
@@ -199,8 +207,21 @@ def analizza_batch(batch: list[dict]) -> dict:
     return mappatura
 
 
-def salva_checkpoint(righe: list[dict]):
-    """Scrittura atomica: evita checkpoint corrotti se il processo si interrompe."""
+def analizza_batch(batch: list) -> dict:
+    try:
+        return _analizza_batch_unitario(batch)
+    except RispostaTroncata:
+        if len(batch) < 2:
+            raise
+        meta = len(batch) // 2
+        print(f"  [Troncamento] Risposta troppo lunga: divido il batch ({len(batch)} -> {meta}+{len(batch) - meta})...")
+        sinistra = analizza_batch(batch[:meta])
+        destra = analizza_batch(batch[meta:])
+        sinistra.update(destra)
+        return sinistra
+
+
+def salva_checkpoint(righe: list):
     tmp = Path(OUTPUT_JSON).with_suffix(".json.tmp")
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(righe, f, ensure_ascii=False, indent=2)
@@ -264,7 +285,7 @@ def main():
             righe_gia_processate.append(nuova_riga)
 
         if mancanti:
-            print(f"  [Avviso] {mancanti} record non trovati nella risposta del modello: campi a null.")
+            print(f"  [Avviso] {mancanti} record assenti dalla risposta: campi a null.")
 
         salva_checkpoint(righe_gia_processate)
 
